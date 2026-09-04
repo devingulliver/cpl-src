@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "server": "node --experimental-sqlite server/index.mjs",
     "build": "vite build",
     "preview": "vite preview"
   },

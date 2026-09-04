@@ -1,12 +1,5 @@
 import { Suspense, lazy, useEffect, useMemo, useRef, useState, type Dispatch, type KeyboardEvent, type SetStateAction } from 'react';
-import csvText from './data.csv?raw';
-import interviewCsvText from '../interviews/data.csv?raw';
-
-const transcriptAssetMap = import.meta.glob('../interviews/*.srt', {
-  eager: true,
-  query: '?raw',
-  import: 'default',
-});
+import { fetchItems, type Item } from './api';
 
 const MiradorViewer = lazy(async () => {
   const module = await import('./MiradorViewer');
@@ -18,207 +11,19 @@ const AudioViewer = lazy(async () => {
   return { default: module.AudioViewer };
 });
 
-type Item = {
-  id: string;
-  title: string;
-  sourceDate: string;
-  archiveDate: string;
-  author: string;
-  description: string;
-  collection: string;
-  sport: string;
-  team: string;
-  format: string;
-  year: number | null;
-  image: string;
-  audio: string;
-  transcript: string;
-  filesize: number | null;
-};
-
-function getInterviewAsset(map: Record<string, unknown>, id: string, extension: string) {
-  const path = `../interviews/${id}${extension}`;
-  const value = map[path];
-
-  return typeof value === 'string' ? value : '';
-}
-
-function buildInterviewAudioUrl(id: string) {
-  const match = id.match(/_(\d+)$/);
-  const numericId = match ? match[1] : id;
-
-  return `https://cplorg.contentdm.oclc.org/digital/api/collection/p4014coll27/id/${numericId}/download`;
-}
-
-function parseByteSize(value: string | undefined) {
-  if (!value) {
-    return null;
-  }
-
-  const parsed = Number(value.trim());
-  return Number.isFinite(parsed) && parsed > 0 ? parsed : null;
-}
-
-function parseCsv(text: string): string[][] {
-  const rows: string[][] = [];
-  let row: string[] = [];
-  let field = '';
-  let inQuotes = false;
-
-  const pushField = () => {
-    row.push(field.trim());
-    field = '';
-  };
-
-  for (let index = 0; index < text.length; index += 1) {
-    const character = text[index];
-
-    if (inQuotes) {
-      if (character === '"') {
-        if (text[index + 1] === '"') {
-          field += '"';
-          index += 1;
-        } else {
-          inQuotes = false;
-        }
-      } else {
-        field += character;
-      }
-      continue;
-    }
-
-    if (character === '"') {
-      inQuotes = true;
-      continue;
-    }
-
-    if (character === ',') {
-      pushField();
-      continue;
-    }
-
-    if (character === '\n') {
-      pushField();
-      rows.push(row);
-      row = [];
-      continue;
-    }
-
-    if (character !== '\r') {
-      field += character;
-    }
-  }
-
-  if (field.length > 0 || row.length > 0) {
-    pushField();
-    rows.push(row);
-  }
-
-  return rows.filter((entry) => entry.some((cell) => cell.length > 0));
-}
-
-function extractYear(...values: string[]): number | null {
-  for (const value of values) {
-    const match = value.match(/\b(1[89]\d{2}|20\d{2})\b/);
-
-    if (match) {
-      return Number(match[1]);
-    }
-  }
-
-  return null;
-}
-
-function parseItems(text: string): Item[] {
-  const rows = parseCsv(text);
-
-  return rows.slice(1).map((row, index) => {
-    const rawId = row[0] ?? index + 1;
-    const id = String(rawId);
-    const title = row[1] ?? '';
-    const sourceDate = row[2] ?? '';
-    const archiveDate = row[3] ?? '';
-    const collection = row[6] ?? 'Uncategorized';
-    const year = extractYear(sourceDate, archiveDate, title);
-
-    return {
-      id,
-      title,
-      sourceDate,
-      archiveDate,
-      author: row[4] ?? '',
-      description: row[5] ?? '',
-      collection,
-      sport: row[7] ?? 'Baseball',
-      team: row[8] ?? '',
-      format: 'Image',
-      year,
-      image: row[9] ?? row[7] ?? '',
-      audio: '',
-      transcript: '',
-      filesize: null,
-    };
-  });
-}
-
-function parseInterviewItems(text: string): Item[] {
-  const rows = parseCsv(text);
-
-  return rows.slice(1).map((row, index) => {
-    const rawId = row[0] ?? index + 1;
-    const id = String(rawId);
-    const title = row[1] ?? '';
-    const sourceDate = row[2] ?? '';
-    const archiveDate = row[2] ?? '';
-    const year = extractYear(sourceDate, row[3] ?? '', title);
-    const audio = buildInterviewAudioUrl(id);
-    const transcript = getInterviewAsset(transcriptAssetMap, id, '.srt');
-    const filesize = parseByteSize(row[9]);
-
-    return {
-      id,
-      title,
-      sourceDate,
-      archiveDate,
-      author: row[4] ?? '',
-      description: row[5] ?? '',
-      collection: row[6] ?? 'Uncategorized',
-      sport: row[7] ?? 'Baseball',
-      team: '',
-      format: 'Audio',
-      year,
-      image: '',
-      audio,
-      transcript,
-      filesize,
-    };
-  });
-}
-
-const initialItems = [...parseItems(csvText), ...parseInterviewItems(interviewCsvText)];
-
-const collections = Array.from(new Set(initialItems.map((item) => item.collection).filter(Boolean))).sort();
-const sports = Array.from(new Set(initialItems.map((item) => item.sport).filter(Boolean))).sort();
-const teams = Array.from(new Set(initialItems.map((item) => item.team).filter(Boolean))).sort();
-const formats = Array.from(new Set(initialItems.map((item) => item.format).filter(Boolean))).sort();
-
-const years = initialItems.flatMap((item) => (item.year === null ? [] : [item.year]));
-const YEAR_MIN = years.length > 0 ? Math.min(...years) : 1870;
-const YEAR_MAX = years.length > 0 ? Math.max(...years) : 2021;
-
-const initialCollections = new Set<string>();
-const initialSports = new Set<string>();
-const initialTeams = new Set<string>();
-const initialFormats = new Set<string>();
+const DEFAULT_YEAR_MIN = 1870;
+const DEFAULT_YEAR_MAX = 2021;
 
 type YearRangeSliderProps = {
+  domainMin: number;
+  domainMax: number;
   min: number;
   max: number;
   onChangeMin: (value: number) => void;
   onChangeMax: (value: number) => void;
 };
 
-function YearRangeSlider({ min, max, onChangeMin, onChangeMax }: YearRangeSliderProps) {
+function YearRangeSlider({ domainMin, domainMax, min, max, onChangeMin, onChangeMax }: YearRangeSliderProps) {
   const trackRef = useRef<HTMLDivElement>(null);
   const activeThumbRef = useRef<'min' | 'max' | null>(null);
 
@@ -230,7 +35,7 @@ function YearRangeSlider({ min, max, onChangeMin, onChangeMax }: YearRangeSlider
 
     const bounds = track.getBoundingClientRect();
     const percent = Math.min(1, Math.max(0, (clientX - bounds.left) / bounds.width));
-    const rawValue = Math.round(YEAR_MIN + percent * (YEAR_MAX - YEAR_MIN));
+    const rawValue = Math.round(domainMin + percent * (domainMax - domainMin));
 
     if (activeThumbRef.current === 'min') {
       onChangeMin(Math.min(rawValue, max));
@@ -261,8 +66,8 @@ function YearRangeSlider({ min, max, onChangeMin, onChangeMax }: YearRangeSlider
     };
   }, [max, min]);
 
-  const minPercent = ((min - YEAR_MIN) / (YEAR_MAX - YEAR_MIN)) * 100;
-  const maxPercent = ((max - YEAR_MIN) / (YEAR_MAX - YEAR_MIN)) * 100;
+  const minPercent = ((min - domainMin) / (domainMax - domainMin)) * 100;
+  const maxPercent = ((max - domainMin) / (domainMax - domainMin)) * 100;
 
   const handleKeyDown = (thumb: 'min' | 'max') => (event: KeyboardEvent<HTMLButtonElement>) => {
     const step = event.shiftKey ? 10 : 1;
@@ -270,7 +75,7 @@ function YearRangeSlider({ min, max, onChangeMin, onChangeMax }: YearRangeSlider
     if (thumb === 'min') {
       if (event.key === 'ArrowLeft' || event.key === 'ArrowDown') {
         event.preventDefault();
-        onChangeMin(Math.max(YEAR_MIN, min - step));
+        onChangeMin(Math.max(domainMin, min - step));
       }
 
       if (event.key === 'ArrowRight' || event.key === 'ArrowUp') {
@@ -287,7 +92,7 @@ function YearRangeSlider({ min, max, onChangeMin, onChangeMax }: YearRangeSlider
 
       if (event.key === 'ArrowRight' || event.key === 'ArrowUp') {
         event.preventDefault();
-        onChangeMax(Math.min(YEAR_MAX, max + step));
+        onChangeMax(Math.min(domainMax, max + step));
       }
     }
   };
@@ -392,19 +197,38 @@ function FooterNote() {
 
 function App() {
   const [query, setQuery] = useState('');
-  const [catalogItems, setCatalogItems] = useState<Item[]>(() => initialItems);
-  const [selectedCollections, setSelectedCollections] = useState<Set<string>>(initialCollections);
-  const [selectedSports, setSelectedSports] = useState<Set<string>>(initialSports);
-  const [selectedTeams, setSelectedTeams] = useState<Set<string>>(initialTeams);
-  const [selectedFormats, setSelectedFormats] = useState<Set<string>>(initialFormats);
-  const [yearMin, setYearMin] = useState(YEAR_MIN);
-  const [yearMax, setYearMax] = useState(YEAR_MAX);
+  const [catalogItems, setCatalogItems] = useState<Item[]>([]);
+  const [selectedCollections, setSelectedCollections] = useState<Set<string>>(new Set());
+  const [selectedSports, setSelectedSports] = useState<Set<string>>(new Set());
+  const [selectedTeams, setSelectedTeams] = useState<Set<string>>(new Set());
+  const [selectedFormats, setSelectedFormats] = useState<Set<string>>(new Set());
+  const [yearMin, setYearMin] = useState(DEFAULT_YEAR_MIN);
+  const [yearMax, setYearMax] = useState(DEFAULT_YEAR_MAX);
   const [filtersOpen, setFiltersOpen] = useState(false);
   const [selectedItemId, setSelectedItemId] = useState<string | null>(null);
 
+  useEffect(() => {
+    void fetchItems().then(setCatalogItems).catch(() => setCatalogItems([]));
+  }, []);
+
+  const collections = useMemo(() => Array.from(new Set(catalogItems.map((item) => item.collection).filter(Boolean))).sort(), [catalogItems]);
+  const sports = useMemo(() => Array.from(new Set(catalogItems.map((item) => item.sport).filter(Boolean))).sort(), [catalogItems]);
+  const teams = useMemo(() => Array.from(new Set(catalogItems.map((item) => item.team).filter(Boolean))).sort(), [catalogItems]);
+  const formats = useMemo(() => Array.from(new Set(catalogItems.map((item) => item.format).filter(Boolean))).sort(), [catalogItems]);
+  const years = useMemo(() => catalogItems.flatMap((item) => (item.year === null ? [] : [item.year])), [catalogItems]);
+  const yearDomainMin = years.length > 0 ? Math.min(...years) : DEFAULT_YEAR_MIN;
+  const yearDomainMax = years.length > 0 ? Math.max(...years) : DEFAULT_YEAR_MAX;
+
+  useEffect(() => {
+    if (catalogItems.length > 0) {
+      setYearMin(yearDomainMin);
+      setYearMax(yearDomainMax);
+    }
+  }, [catalogItems.length, yearDomainMin, yearDomainMax]);
+
   const filteredItems = useMemo(() => {
     const term = query.trim().toLowerCase();
-    const yearFilterIsDefault = yearMin === YEAR_MIN && yearMax === YEAR_MAX;
+    const yearFilterIsDefault = yearMin === yearDomainMin && yearMax === yearDomainMax;
 
     return catalogItems.filter((item) => {
       const matchesTerm =
@@ -424,7 +248,7 @@ function App() {
 
       return matchesTerm && matchesCollection && matchesSport && matchesTeam && matchesFormat && matchesYear;
     });
-  }, [catalogItems, query, selectedCollections, selectedSports, selectedTeams, selectedFormats, yearMin, yearMax]);
+  }, [catalogItems, query, selectedCollections, selectedSports, selectedTeams, selectedFormats, yearMin, yearMax, yearDomainMin, yearDomainMax]);
 
   const toggleSelection = (value: string, setSelection: Dispatch<SetStateAction<Set<string>>>) => {
     setSelection((current) => {
@@ -511,8 +335,8 @@ function App() {
                 <a className="download-link" href={selectedItem.audio} download>
                   Download audio file
                 </a>
-                {selectedItem.transcript ? (
-                  <a className="download-link" href={selectedItem.transcript} download>
+                {selectedItem.transcriptUrl ? (
+                  <a className="download-link" href={selectedItem.transcriptUrl} download>
                     Download transcript
                   </a>
                 ) : null}
@@ -636,7 +460,7 @@ function App() {
                 <span>{yearMin}</span>
                 <span>{yearMax}</span>
               </div>
-              <YearRangeSlider min={yearMin} max={yearMax} onChangeMax={setYearMax} onChangeMin={setYearMin} />
+              <YearRangeSlider domainMin={yearDomainMin} domainMax={yearDomainMax} min={yearMin} max={yearMax} onChangeMax={setYearMax} onChangeMin={setYearMin} />
             </section>
           </div>
         </aside>
