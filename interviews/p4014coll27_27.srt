@@ -1,0 +1,4852 @@
+1
+00:00:03,547 --> 00:00:09,350
+[SPEAKER_01]: Well, the record book says you were born in 1900, December 31st.
+
+2
+00:00:09,570 --> 00:00:10,231
+[SPEAKER_01]: Right.
+
+3
+00:00:10,571 --> 00:00:13,733
+[SPEAKER_00]: Last day of the year, last day of the month, last day of the century.
+
+4
+00:00:15,093 --> 00:00:16,054
+[SPEAKER_01]: Here in Portland, right?
+
+5
+00:00:16,214 --> 00:00:17,495
+[SPEAKER_01]: Right.
+
+6
+00:00:17,835 --> 00:00:19,896
+[SPEAKER_01]: Had your parents lived here very long?
+
+7
+00:00:19,916 --> 00:00:20,256
+[SPEAKER_00]: Pardon?
+
+8
+00:00:20,476 --> 00:00:21,977
+[SPEAKER_01]: Had your parents lived here very long?
+
+9
+00:00:22,437 --> 00:00:23,398
+[SPEAKER_00]: Oh, yeah.
+
+10
+00:00:23,418 --> 00:00:24,318
+[SPEAKER_00]: They're all deceased.
+
+11
+00:00:24,699 --> 00:00:26,700
+[SPEAKER_01]: I know they lived in Portland for a long time?
+
+12
+00:00:27,200 --> 00:00:28,461
+[SPEAKER_00]: Oh, yeah.
+
+13
+00:00:28,501 --> 00:00:29,481
+[SPEAKER_00]: 37 years.
+
+14
+00:00:30,322 --> 00:00:32,223
+[SPEAKER_01]: I mean, when you were born here, had they been here?
+
+15
+00:00:33,808 --> 00:00:35,189
+[SPEAKER_01]: What did your dad do?
+
+16
+00:00:35,229 --> 00:00:35,890
+[SPEAKER_01]: Did he play ball?
+
+17
+00:00:36,150 --> 00:00:36,550
+[SPEAKER_00]: No, no.
+
+18
+00:00:36,570 --> 00:00:37,511
+[SPEAKER_00]: He worked at a lumber company.
+
+19
+00:00:37,571 --> 00:00:39,192
+[SPEAKER_00]: Inman Poulson's lumber company.
+
+20
+00:00:39,492 --> 00:00:40,072
+[SPEAKER_00]: Inman Poulson.
+
+21
+00:00:40,092 --> 00:00:40,612
+[SPEAKER_00]: Inman Poulson.
+
+22
+00:00:40,672 --> 00:00:41,153
+[SPEAKER_00]: Inman Poulson.
+
+23
+00:00:41,233 --> 00:00:41,553
+[SPEAKER_00]: Inman Poulson.
+
+24
+00:00:41,573 --> 00:00:42,133
+[SPEAKER_00]: Inman Poulson.
+
+25
+00:00:42,454 --> 00:00:42,814
+[SPEAKER_00]: Inman Poulson.
+
+26
+00:00:42,834 --> 00:00:43,394
+[SPEAKER_00]: Inman Poulson.
+
+27
+00:00:43,414 --> 00:00:43,894
+[SPEAKER_00]: Inman Poulson.
+
+28
+00:00:43,914 --> 00:00:44,235
+[SPEAKER_00]: Inman Poulson.
+
+29
+00:00:44,255 --> 00:00:44,535
+[SPEAKER_00]: Inman Poulson.
+
+30
+00:00:44,555 --> 00:00:44,955
+[SPEAKER_00]: Inman Poulson.
+
+31
+00:00:45,035 --> 00:00:45,395
+[SPEAKER_00]: Inman Poulson.
+
+32
+00:00:45,415 --> 00:00:45,876
+[SPEAKER_00]: Inman Poulson.
+
+33
+00:00:48,897 --> 00:00:49,338
+[SPEAKER_00]: Inman Poulson.
+
+34
+00:00:49,638 --> 00:00:50,418
+[SPEAKER_00]: Inman Poulson.
+
+35
+00:00:50,438 --> 00:00:50,919
+[SPEAKER_00]: Inman Poulson.
+
+36
+00:00:50,979 --> 00:00:51,679
+[SPEAKER_00]: Inman Poulson.
+
+37
+00:00:51,699 --> 00:00:52,159
+[SPEAKER_00]: Inman Poulson.
+
+38
+00:00:52,179 --> 00:00:52,520
+[SPEAKER_00]: Inman Poulson.
+
+39
+00:00:52,540 --> 00:00:52,960
+[SPEAKER_00]: Inman Poulson.
+
+40
+00:00:53,000 --> 00:00:53,380
+[SPEAKER_00]: Inman Poulson.
+
+41
+00:00:53,400 --> 00:00:54,021
+[SPEAKER_00]: Inman Poulson.
+
+42
+00:00:54,121 --> 00:00:55,601
+[SPEAKER_00]: Inman Poulson.
+
+43
+00:00:55,622 --> 00:00:56,022
+[SPEAKER_00]: Inman Poulson.
+
+44
+00:00:56,062 --> 00:00:56,842
+[SPEAKER_00]: Inman Poulson.
+
+45
+00:00:56,882 --> 00:00:57,343
+[SPEAKER_00]: Inman Poulson.
+
+46
+00:00:57,363 --> 00:00:58,483
+[SPEAKER_00]: Inman Poulson.
+
+47
+00:00:58,503 --> 00:00:59,204
+[SPEAKER_00]: Inman Poulson.
+
+48
+00:00:59,284 --> 00:00:59,744
+[SPEAKER_00]: Inman Poulson.
+
+49
+00:00:59,764 --> 00:01:00,144
+[SPEAKER_00]: Inman Poulson.
+
+50
+00:01:00,164 --> 00:01:00,524
+[SPEAKER_00]: Inman Poulson.
+
+51
+00:01:00,544 --> 00:01:01,045
+[SPEAKER_00]: Inman Poulson.
+
+52
+00:01:01,105 --> 00:01:01,165
+[SPEAKER_00]: In
+
+53
+00:01:03,087 --> 00:01:04,007
+[SPEAKER_00]: Then they come out here.
+
+54
+00:01:04,807 --> 00:01:05,728
+[SPEAKER_01]: What'd they come out here for?
+
+55
+00:01:05,748 --> 00:01:09,408
+[SPEAKER_01]: Well, just great wide open spaces, huh?
+
+56
+00:01:11,109 --> 00:01:14,409
+[SPEAKER_00]: Well, they can't beat this country as far as I'm concerned.
+
+57
+00:01:17,130 --> 00:01:19,530
+[SPEAKER_00]: Of course, that's what a lot of people may like more there.
+
+58
+00:01:20,230 --> 00:01:23,391
+[SPEAKER_00]: A lot of people in Chicago like Chicago, New York like New York.
+
+59
+00:01:23,511 --> 00:01:27,051
+[SPEAKER_00]: I know.
+
+60
+00:01:28,052 --> 00:01:29,532
+[SPEAKER_01]: Your dad didn't play any ball, though, huh?
+
+61
+00:01:29,572 --> 00:01:29,872
+[SPEAKER_00]: No, no.
+
+62
+00:01:30,203 --> 00:01:32,484
+[SPEAKER_01]: So where did you develop your skills?
+
+63
+00:01:32,804 --> 00:01:39,187
+[SPEAKER_00]: Just a saddle out there.
+
+64
+00:01:39,247 --> 00:01:42,249
+[SPEAKER_00]: 1817, 1818, I pitched semi-probo.
+
+65
+00:01:42,329 --> 00:01:44,230
+[SPEAKER_00]: I didn't go to high school.
+
+66
+00:01:45,050 --> 00:01:47,071
+[SPEAKER_00]: I had to go to work right out of grammar school.
+
+67
+00:01:48,192 --> 00:01:49,432
+[SPEAKER_00]: So I pitched semi-probo.
+
+68
+00:01:51,453 --> 00:01:55,495
+[SPEAKER_00]: And that was in 1818, right during the war.
+
+69
+00:01:56,015 --> 00:01:57,456
+[SPEAKER_00]: I was too young to go into service.
+
+70
+00:02:00,310 --> 00:02:03,931
+[SPEAKER_00]: 17, one more call and I'd have probably gone.
+
+71
+00:02:04,331 --> 00:02:05,512
+[SPEAKER_00]: That's the First World War.
+
+72
+00:02:08,253 --> 00:02:21,817
+[SPEAKER_00]: But anyway, in 1920, I used to write, I worked at the paper house there for four years, right on their ball pitcher, and I'd catch two.
+
+73
+00:02:23,398 --> 00:02:23,838
+[SPEAKER_00]: But anyway,
+
+74
+00:02:26,195 --> 00:02:35,701
+[SPEAKER_00]: I used to ride over with my bicycle across the river to Judge McCready, who owned the Portland Baseball Club, to see if I could go to training camp with him.
+
+75
+00:02:35,761 --> 00:02:39,223
+[SPEAKER_00]: And I'd take clippings, you know, from him.
+
+76
+00:02:39,243 --> 00:02:41,064
+[SPEAKER_00]: I guess he got tired of looking at me.
+
+77
+00:02:42,025 --> 00:02:50,430
+[SPEAKER_00]: So finally, the day before and after training camp, they called up and decided to go take me to training camp.
+
+78
+00:02:50,690 --> 00:02:51,110
+[SPEAKER_01]: In 1920, huh?
+
+79
+00:02:51,130 --> 00:02:51,270
+[SPEAKER_01]: 1920.
+
+80
+00:02:54,379 --> 00:02:56,981
+[SPEAKER_00]: So we went to Ontario, California.
+
+81
+00:02:59,264 --> 00:03:02,607
+[SPEAKER_00]: And, oh, I pitched a few ball games down there.
+
+82
+00:03:02,667 --> 00:03:04,068
+[SPEAKER_00]: I mean, some of them.
+
+83
+00:03:04,168 --> 00:03:07,491
+[SPEAKER_00]: Now, there's Colton, and they had some ex-Coast League players.
+
+84
+00:03:07,511 --> 00:03:12,996
+[SPEAKER_00]: And then I pitched for the Dutch on St. Patrick's Day.
+
+85
+00:03:13,376 --> 00:03:17,060
+[SPEAKER_00]: The Irish was a last year club, and the Dutch was mostly all new.
+
+86
+00:03:18,619 --> 00:03:20,959
+[SPEAKER_00]: So I pitched for the Dutch, and we beat them.
+
+87
+00:03:21,119 --> 00:03:22,720
+[SPEAKER_00]: I can remember the score, 4 to 3.
+
+88
+00:03:22,760 --> 00:03:24,100
+[SPEAKER_00]: And I hit a home run myself.
+
+89
+00:03:26,260 --> 00:03:28,181
+[SPEAKER_00]: So that decided to keep me a while longer.
+
+90
+00:03:28,881 --> 00:03:31,861
+[SPEAKER_00]: That old son of mine is my roommate.
+
+91
+00:03:33,162 --> 00:03:37,782
+[SPEAKER_00]: So I pitched along, and finally we got to the open season at Salt Lake.
+
+92
+00:03:38,283 --> 00:03:39,523
+[SPEAKER_00]: Who was the manager back then?
+
+93
+00:03:39,623 --> 00:03:40,883
+[SPEAKER_00]: Walter McReady.
+
+94
+00:03:41,583 --> 00:03:43,063
+[SPEAKER_01]: His brother owned it, and he was the manager.
+
+95
+00:03:43,083 --> 00:03:43,884
+[SPEAKER_00]: His uncle owned it.
+
+96
+00:03:43,904 --> 00:03:44,344
+[SPEAKER_01]: His uncle.
+
+97
+00:03:47,248 --> 00:03:52,129
+[SPEAKER_00]: Opening day in Salt Lake, they had to scrape the snow off the ground, pack it up against the left field.
+
+98
+00:03:52,529 --> 00:03:56,170
+[SPEAKER_00]: Leach's packed house, and Poulsen was pitching.
+
+99
+00:03:57,590 --> 00:03:59,170
+[SPEAKER_00]: And I put me in the bullpen.
+
+100
+00:03:59,370 --> 00:04:04,211
+[SPEAKER_00]: Hell, I've never been on a ballpark like that in my life.
+
+101
+00:04:06,131 --> 00:04:09,452
+[SPEAKER_00]: So they cut Poulsen out of their four runs in the first day, and then I go in.
+
+102
+00:04:09,472 --> 00:04:10,352
+[SPEAKER_00]: They put me in.
+
+103
+00:04:11,853 --> 00:04:14,453
+[SPEAKER_00]: When I pitched five innings, I didn't get a hit or didn't get a run.
+
+104
+00:04:15,542 --> 00:04:17,424
+[SPEAKER_00]: So then they decided to keep me a while longer.
+
+105
+00:04:18,605 --> 00:04:23,549
+[SPEAKER_00]: Finally, they sent me up to Vancouver in the WI League.
+
+106
+00:04:24,510 --> 00:04:25,410
+[SPEAKER_00]: Western International.
+
+107
+00:04:25,430 --> 00:04:26,431
+[SPEAKER_00]: Western International.
+
+108
+00:04:26,451 --> 00:04:28,973
+[SPEAKER_01]: And then I- That'd be a B League, wouldn't it be?
+
+109
+00:04:28,993 --> 00:04:32,977
+[SPEAKER_00]: Class B or- Class A or B, I don't know what it was.
+
+110
+00:04:33,057 --> 00:04:36,299
+[SPEAKER_00]: Anyway, I won 12 and lost 12 up there.
+
+111
+00:04:36,560 --> 00:04:38,842
+[SPEAKER_00]: Then they recalled me at the end of the year, 1920.
+
+112
+00:04:38,922 --> 00:04:42,845
+[SPEAKER_00]: Then 1921, I go to training camp and stay with them all year.
+
+113
+00:04:44,600 --> 00:04:45,260
+[SPEAKER_00]: I don't know what I think.
+
+114
+00:04:45,300 --> 00:04:49,062
+[SPEAKER_00]: I won 13, lost 26, or something like that.
+
+115
+00:04:49,162 --> 00:04:52,623
+[SPEAKER_00]: And Detroit bought me.
+
+116
+00:04:52,683 --> 00:05:01,106
+[SPEAKER_01]: Colette and I.
+
+117
+00:05:01,126 --> 00:05:01,446
+[SPEAKER_01]: Go ahead.
+
+118
+00:05:01,486 --> 00:05:02,766
+[SPEAKER_01]: Detroit bought you.
+
+119
+00:05:03,126 --> 00:05:04,067
+[SPEAKER_01]: Who scouted you for Detroit?
+
+120
+00:05:04,087 --> 00:05:05,427
+[SPEAKER_01]: Do you remember anybody in particular?
+
+121
+00:05:05,447 --> 00:05:06,087
+[SPEAKER_00]: Her, I think.
+
+122
+00:05:06,107 --> 00:05:08,028
+[SPEAKER_00]: Betty Her.
+
+123
+00:05:08,088 --> 00:05:08,608
+[SPEAKER_00]: Way back.
+
+124
+00:05:09,249 --> 00:05:10,489
+[SPEAKER_00]: That was quite a ways back.
+
+125
+00:05:10,509 --> 00:05:12,310
+[SPEAKER_00]: That was 1922 when I went up.
+
+126
+00:05:14,590 --> 00:05:17,552
+[SPEAKER_00]: What did they pay for you?
+
+127
+00:05:17,572 --> 00:05:19,053
+[SPEAKER_00]: $40,000, eight ball players.
+
+128
+00:05:19,093 --> 00:05:20,313
+[SPEAKER_00]: Eight ball players?
+
+129
+00:05:20,593 --> 00:05:20,994
+[SPEAKER_00]: And $40,000.
+
+130
+00:05:21,094 --> 00:05:23,035
+[SPEAKER_00]: And Collette and I were the two of us.
+
+131
+00:05:23,075 --> 00:05:23,775
+[SPEAKER_00]: Herman Collette?
+
+132
+00:05:23,835 --> 00:05:24,735
+[SPEAKER_00]: Herman Collette.
+
+133
+00:05:26,416 --> 00:05:29,518
+[SPEAKER_00]: Well, Herman, in 1922, he had a good year.
+
+134
+00:05:29,718 --> 00:05:30,919
+[SPEAKER_00]: I think he won 19.
+
+135
+00:05:31,199 --> 00:05:31,819
+[SPEAKER_01]: With Detroit?
+
+136
+00:05:32,219 --> 00:05:33,000
+[SPEAKER_00]: Yeah.
+
+137
+00:05:33,100 --> 00:05:34,741
+[SPEAKER_00]: I won seven and three.
+
+138
+00:05:35,001 --> 00:05:37,082
+[SPEAKER_00]: I got my wrist broke right in the spring training.
+
+139
+00:05:38,668 --> 00:05:53,773
+[SPEAKER_00]: But I wound up one seven How'd you break your wrist that hit a pitch ball a pitch ball, yeah Pitching against some club down in Barnstorming up through what I was cold.
+
+140
+00:05:53,873 --> 00:06:01,716
+[SPEAKER_00]: I went back like that I Come back to 23, how'd you like Ty Cobb to play for?
+
+141
+00:06:02,776 --> 00:06:04,217
+[SPEAKER_00]: Well, I've played a lot better
+
+142
+00:06:05,384 --> 00:06:07,505
+[SPEAKER_00]: He's a fighting manager, I'll tell you what I mean.
+
+143
+00:06:07,525 --> 00:06:09,306
+[SPEAKER_00]: He'd cut his own mother to get in base.
+
+144
+00:06:10,887 --> 00:06:14,328
+[SPEAKER_00]: Personally, you can't take it away from him.
+
+145
+00:06:14,368 --> 00:06:15,409
+[SPEAKER_00]: He's a great ball player.
+
+146
+00:06:15,429 --> 00:06:17,990
+[SPEAKER_00]: But other than that, well, yeah.
+
+147
+00:06:18,310 --> 00:06:21,612
+[SPEAKER_01]: He wasn't really managerial caliber, though, do you think?
+
+148
+00:06:21,772 --> 00:06:24,333
+[SPEAKER_01]: Well, he's too good a player to be a good manager.
+
+149
+00:06:24,533 --> 00:06:26,574
+[SPEAKER_00]: Well, but he's a little truer than that, too.
+
+150
+00:06:28,235 --> 00:06:28,935
+[SPEAKER_00]: Did he give you any?
+
+151
+00:06:29,475 --> 00:06:30,876
+[SPEAKER_00]: Anyway, I was with him for 22, 1922, 23, 24.
+
+152
+00:06:34,621 --> 00:06:41,723
+[SPEAKER_00]: And then in 25, in the spring of the year 25, I was pitching in Chicago.
+
+153
+00:06:42,203 --> 00:06:44,064
+[SPEAKER_00]: We had a big lead going in the ninth inning.
+
+154
+00:06:45,924 --> 00:06:47,184
+[SPEAKER_00]: Bibb Falk hit a line drive.
+
+155
+00:06:47,205 --> 00:06:48,065
+[SPEAKER_00]: It hit me right there.
+
+156
+00:06:48,085 --> 00:06:49,805
+[SPEAKER_00]: Fractured eight bones.
+
+157
+00:06:50,345 --> 00:06:51,666
+[SPEAKER_01]: On your left cheek.
+
+158
+00:06:51,706 --> 00:06:53,386
+[SPEAKER_00]: The ball rolled over to the first base.
+
+159
+00:06:53,406 --> 00:06:56,787
+[SPEAKER_00]: Blue, Blue picked the ball up and knocked me down.
+
+160
+00:06:57,747 --> 00:06:58,588
+[SPEAKER_00]: Bibb Falk hit it.
+
+161
+00:06:58,888 --> 00:07:00,188
+[SPEAKER_00]: Just a line drive.
+
+162
+00:07:00,208 --> 00:07:01,388
+[SPEAKER_00]: Just a flash.
+
+163
+00:07:02,649 --> 00:07:03,269
+[SPEAKER_00]: So I got up.
+
+164
+00:07:04,383 --> 00:07:04,864
+[SPEAKER_00]: I thought I had it.
+
+165
+00:07:04,944 --> 00:07:05,644
+[SPEAKER_00]: Oh, my.
+
+166
+00:07:07,586 --> 00:07:09,748
+[SPEAKER_00]: Fred Haney was on third base.
+
+167
+00:07:09,768 --> 00:07:10,288
+[SPEAKER_00]: They come over.
+
+168
+00:07:10,528 --> 00:07:11,309
+[SPEAKER_00]: Passer was catching.
+
+169
+00:07:11,329 --> 00:07:13,591
+[SPEAKER_00]: They come over and got a hold of him.
+
+170
+00:07:13,631 --> 00:07:15,132
+[SPEAKER_00]: Blood was just pouring out.
+
+171
+00:07:16,713 --> 00:07:19,875
+[SPEAKER_00]: And they got me down to Mercy Hospital there.
+
+172
+00:07:20,976 --> 00:07:24,239
+[SPEAKER_00]: They had to get in there and push the bones out.
+
+173
+00:07:24,279 --> 00:07:27,201
+[SPEAKER_00]: They thought they'd have to wire them, but they didn't.
+
+174
+00:07:27,261 --> 00:07:29,823
+[SPEAKER_00]: Because all I could eat was soup.
+
+175
+00:07:30,684 --> 00:07:31,765
+[SPEAKER_01]: You see how we're sounding.
+
+176
+00:07:34,548 --> 00:07:41,991
+[SPEAKER_00]: Well, anyway, at 25, after that happened, I thought I was through, you know.
+
+177
+00:07:42,551 --> 00:07:45,372
+[SPEAKER_01]: How long in the hospital?
+
+178
+00:07:45,573 --> 00:07:46,273
+[SPEAKER_00]: 11 days.
+
+179
+00:07:46,553 --> 00:07:47,453
+[SPEAKER_00]: Were you unconscious?
+
+180
+00:07:47,753 --> 00:07:50,034
+[SPEAKER_00]: Oh, no, no, no, no, no.
+
+181
+00:07:50,114 --> 00:07:50,575
+[SPEAKER_00]: No?
+
+182
+00:07:50,615 --> 00:07:51,175
+[SPEAKER_00]: Something.
+
+183
+00:07:52,035 --> 00:07:59,638
+[SPEAKER_00]: No, I was in the hospital, and Judge Landis, he come up to see me, and a couple of the umpires, the cop never came up.
+
+184
+00:07:59,658 --> 00:08:01,259
+[SPEAKER_00]: They had to leave right away to go east.
+
+185
+00:08:05,025 --> 00:08:12,187
+[SPEAKER_00]: And they had a flash in Detroit that when I got hit, you know, Heidi Manoush was out there.
+
+186
+00:08:13,047 --> 00:08:13,827
+[SPEAKER_00]: He told my wife.
+
+187
+00:08:13,887 --> 00:08:16,248
+[SPEAKER_00]: And so she came right down.
+
+188
+00:08:16,308 --> 00:08:23,730
+[SPEAKER_00]: And as quick as she'd get there, Judge Landis told him and said, give her anything she wants.
+
+189
+00:08:25,131 --> 00:08:28,431
+[SPEAKER_00]: So anyway, I went out to start farming out to Vernon.
+
+190
+00:08:29,812 --> 00:08:33,833
+[SPEAKER_00]: And they traded me for Jackie Warner.
+
+191
+00:08:36,042 --> 00:08:39,123
+[SPEAKER_00]: He went and went to Detroit, and then I went out right to Vernon.
+
+192
+00:08:39,143 --> 00:08:40,663
+[SPEAKER_01]: Did you pitch for Vernon that year, then?
+
+193
+00:08:40,763 --> 00:08:41,103
+[SPEAKER_01]: Yeah.
+
+194
+00:08:41,263 --> 00:08:42,383
+[SPEAKER_01]: You got recovered, right?
+
+195
+00:08:42,423 --> 00:08:43,063
+[SPEAKER_00]: That's at 25.
+
+196
+00:08:44,824 --> 00:08:48,985
+[SPEAKER_00]: And then the fall of the year, I think I had a pretty good year.
+
+197
+00:08:49,005 --> 00:08:51,725
+[SPEAKER_00]: After I come back, you know.
+
+198
+00:08:51,745 --> 00:08:53,946
+[SPEAKER_01]: Were you gun shy at all about pitching outside?
+
+199
+00:08:54,006 --> 00:08:54,966
+[SPEAKER_00]: It all healed up.
+
+200
+00:08:55,226 --> 00:08:57,866
+[SPEAKER_00]: Did it bother you, though, to be here?
+
+201
+00:08:57,967 --> 00:08:58,267
+[SPEAKER_00]: No.
+
+202
+00:08:59,967 --> 00:09:05,088
+[SPEAKER_00]: Well, anyway, and then in the fall of 25, Cardinals drafted me.
+
+203
+00:09:05,862 --> 00:09:06,543
+[SPEAKER_00]: Charlie Barrett.
+
+204
+00:09:06,603 --> 00:09:07,984
+[SPEAKER_00]: You probably know Charlie Barrett.
+
+205
+00:09:08,024 --> 00:09:08,845
+[SPEAKER_00]: He was a scout.
+
+206
+00:09:10,146 --> 00:09:11,648
+[SPEAKER_00]: So then I went to the Cardinals.
+
+207
+00:09:11,908 --> 00:09:13,510
+[SPEAKER_00]: That's the best ball I ever pitched in my life.
+
+208
+00:09:13,530 --> 00:09:16,273
+[SPEAKER_00]: It hit me there.
+
+209
+00:09:16,293 --> 00:09:18,115
+[SPEAKER_01]: Because it gave you a good break?
+
+210
+00:09:18,515 --> 00:09:19,196
+[SPEAKER_00]: Yeah.
+
+211
+00:09:19,236 --> 00:09:25,182
+[SPEAKER_00]: I went to Vernon and then I went to the Cardinals with the four World Series pennants.
+
+212
+00:09:26,348 --> 00:09:29,951
+[SPEAKER_00]: And I had some good years there.
+
+213
+00:09:30,011 --> 00:09:32,373
+[SPEAKER_01]: 26 and 27, you didn't fight and pitch much, would you?
+
+214
+00:09:32,653 --> 00:09:32,793
+[SPEAKER_01]: No.
+
+215
+00:09:32,813 --> 00:09:33,934
+[SPEAKER_01]: Were you on the roster, though?
+
+216
+00:09:34,034 --> 00:09:35,035
+[SPEAKER_00]: Oh, yeah.
+
+217
+00:09:35,055 --> 00:09:37,837
+[SPEAKER_00]: 27, they farmed me out to Syracuse.
+
+218
+00:09:38,997 --> 00:09:39,958
+[SPEAKER_01]: Why didn't they pitch you much?
+
+219
+00:09:40,859 --> 00:09:42,280
+[SPEAKER_01]: They have a pretty good staff.
+
+220
+00:09:42,400 --> 00:09:44,482
+[SPEAKER_00]: Well, they had a good staff.
+
+221
+00:09:46,083 --> 00:09:48,485
+[SPEAKER_00]: They thought I was like a 26.
+
+222
+00:09:48,545 --> 00:09:51,587
+[SPEAKER_00]: Hallahan and I, both of us, we'd never get much pitching.
+
+223
+00:09:53,020 --> 00:09:54,341
+[SPEAKER_01]: They had Alexander.
+
+224
+00:09:54,361 --> 00:09:55,662
+[SPEAKER_00]: Yeah, Grover Alexander.
+
+225
+00:09:55,682 --> 00:09:56,363
+[SPEAKER_00]: Jess Haynes.
+
+226
+00:09:56,503 --> 00:09:58,404
+[SPEAKER_00]: Jess Haynes, Bill Sherdell, and Cliff Graham.
+
+227
+00:09:58,444 --> 00:09:58,524
+[SPEAKER_00]: Wow.
+
+228
+00:09:58,564 --> 00:10:00,586
+[SPEAKER_00]: So they had a good staff.
+
+229
+00:10:00,606 --> 00:10:01,566
+[SPEAKER_00]: That's a pretty good staff.
+
+230
+00:10:01,586 --> 00:10:02,567
+[SPEAKER_00]: Oh, they had a good staff.
+
+231
+00:10:02,687 --> 00:10:03,748
+[SPEAKER_01]: Were you at the World Series?
+
+232
+00:10:03,788 --> 00:10:05,489
+[SPEAKER_01]: Were you still on the roster during the 26th World Series?
+
+233
+00:10:05,529 --> 00:10:05,749
+[SPEAKER_01]: Oh, yeah.
+
+234
+00:10:05,770 --> 00:10:05,910
+[SPEAKER_01]: Yeah.
+
+235
+00:10:05,950 --> 00:10:06,590
+[SPEAKER_01]: Do you remember that?
+
+236
+00:10:06,930 --> 00:10:08,892
+[SPEAKER_00]: But they sent me home.
+
+237
+00:10:08,992 --> 00:10:11,434
+[SPEAKER_00]: Oh, you didn't stay on.
+
+238
+00:10:11,574 --> 00:10:15,737
+[SPEAKER_00]: They sent me home.
+
+239
+00:10:15,757 --> 00:10:20,821
+[SPEAKER_00]: That's when O'Farrell hit a line drive, hit me right on the cockeyed hand, broke my hand here.
+
+240
+00:10:23,288 --> 00:10:26,811
+[SPEAKER_00]: Roger Horsley said, if you can't do anything more the rest of the year, you might as well go home.
+
+241
+00:10:27,352 --> 00:10:28,553
+[SPEAKER_01]: Was this in batting practice?
+
+242
+00:10:28,773 --> 00:10:29,013
+[SPEAKER_00]: Yeah.
+
+243
+00:10:29,774 --> 00:10:34,538
+[SPEAKER_00]: He said, I'll guarantee you, if we win the pennant or anything, if Buddy gets you, get to him.
+
+244
+00:10:34,799 --> 00:10:35,239
+[SPEAKER_00]: We did.
+
+245
+00:10:35,359 --> 00:10:37,581
+[SPEAKER_00]: We won the pennant.
+
+246
+00:10:37,601 --> 00:10:39,183
+[SPEAKER_00]: Boy, I got radios.
+
+247
+00:10:40,344 --> 00:10:41,705
+[SPEAKER_00]: They got the World Series checked.
+
+248
+00:10:43,106 --> 00:10:43,727
+[SPEAKER_00]: That was 1926.
+
+249
+00:10:45,037 --> 00:10:47,619
+[SPEAKER_01]: Most of your injuries have been hit by batted balls, haven't they?
+
+250
+00:10:47,779 --> 00:10:48,039
+[SPEAKER_01]: Yeah.
+
+251
+00:10:48,059 --> 00:10:50,241
+[SPEAKER_01]: Twice in the hand and the face?
+
+252
+00:10:50,361 --> 00:10:51,782
+[SPEAKER_00]: Yeah, I got hit in the shins.
+
+253
+00:10:54,264 --> 00:10:57,987
+[SPEAKER_00]: Well, anyway, in 27 I had a good year at Syracuse.
+
+254
+00:10:58,047 --> 00:10:59,268
+[SPEAKER_00]: I pitched a no-hit game.
+
+255
+00:10:59,428 --> 00:11:01,669
+[SPEAKER_00]: I beat Buffalo 2-0.
+
+256
+00:11:02,450 --> 00:11:03,951
+[SPEAKER_00]: That's when I had this and that.
+
+257
+00:11:04,171 --> 00:11:08,775
+[SPEAKER_00]: Pretty good ball propel up there.
+
+258
+00:11:08,815 --> 00:11:09,915
+[SPEAKER_01]: How did you win, do you remember?
+
+259
+00:11:10,075 --> 00:11:10,296
+[SPEAKER_01]: Huh?
+
+260
+00:11:10,456 --> 00:11:12,377
+[SPEAKER_01]: How many did you win, do you remember?
+
+261
+00:11:12,437 --> 00:11:13,358
+[SPEAKER_00]: 15, I think it was.
+
+262
+00:11:14,260 --> 00:11:19,741
+[SPEAKER_00]: 15, a low-hit game, and then I joined them in the last of 1927.
+
+263
+00:11:20,501 --> 00:11:23,142
+[SPEAKER_00]: Come back, and I just fished a little bit every season.
+
+264
+00:11:23,862 --> 00:11:25,882
+[SPEAKER_00]: But then, 28, I fished quite a bit.
+
+265
+00:11:26,003 --> 00:11:27,223
+[SPEAKER_00]: A lot of relief work.
+
+266
+00:11:29,663 --> 00:11:30,603
+[SPEAKER_00]: A lot of relief work.
+
+267
+00:11:30,663 --> 00:11:33,904
+[SPEAKER_00]: I'd start, and I went 28 a couple times.
+
+268
+00:11:34,624 --> 00:11:36,705
+[SPEAKER_00]: Relieved Alexander once, and went on for 20.
+
+269
+00:11:36,745 --> 00:11:37,605
+[SPEAKER_01]: Is that right?
+
+270
+00:11:38,225 --> 00:11:42,526
+[SPEAKER_00]: And then, since the Pettiton in Boston,
+
+271
+00:11:43,978 --> 00:11:45,119
+[SPEAKER_00]: Then we went down to New York.
+
+272
+00:11:48,180 --> 00:11:51,142
+[SPEAKER_00]: And then we came home in 1928.
+
+273
+00:11:51,582 --> 00:11:53,163
+[SPEAKER_00]: And we went to Pettit again in 1930.
+
+274
+00:11:53,563 --> 00:11:54,844
+[SPEAKER_00]: Went to Pettit in 1931.
+
+275
+00:11:54,864 --> 00:12:02,968
+[SPEAKER_00]: And then in 1931, I traded to Cincinnati.
+
+276
+00:12:04,429 --> 00:12:06,110
+[SPEAKER_00]: O'Farrell and I went over to Cincinnati.
+
+277
+00:12:07,911 --> 00:12:11,053
+[SPEAKER_00]: There was a trade, and they sent the car to Little Shumrick.
+
+278
+00:12:13,701 --> 00:12:16,764
+[SPEAKER_00]: The Clanhands, Heinrich Schubel.
+
+279
+00:12:18,185 --> 00:12:25,391
+[SPEAKER_00]: I traded for Johnny Moore and I had some of the best years of the old Phillies.
+
+280
+00:12:27,112 --> 00:12:32,336
+[SPEAKER_01]: Tell me about those good years with St. Louis, though, and the Gas House Gang.
+
+281
+00:12:32,476 --> 00:12:34,618
+[SPEAKER_00]: They come just about when I was there.
+
+282
+00:12:34,658 --> 00:12:36,760
+[SPEAKER_00]: They had Pepper Martin and Frankie Frisch.
+
+283
+00:12:37,200 --> 00:12:39,902
+[SPEAKER_00]: They had some pretty wild ones there.
+
+284
+00:12:39,922 --> 00:12:42,865
+[SPEAKER_00]: Yeah, he was quite a ball player.
+
+285
+00:12:44,367 --> 00:12:46,729
+[SPEAKER_00]: And Dizzy, of course.
+
+286
+00:12:47,469 --> 00:12:49,870
+[SPEAKER_00]: He came up late in 31.
+
+287
+00:12:49,910 --> 00:12:51,411
+[SPEAKER_00]: He wasn't eligible for the series.
+
+288
+00:12:51,812 --> 00:12:53,152
+[SPEAKER_00]: Then after that, he didn't.
+
+289
+00:12:54,433 --> 00:12:56,975
+[SPEAKER_01]: Did you pitch in any of those series of 30 and 31?
+
+290
+00:12:57,095 --> 00:12:57,455
+[SPEAKER_00]: Oh, yeah.
+
+291
+00:12:57,515 --> 00:13:02,678
+[SPEAKER_00]: I started the third one, I think it was, got beat three to nothing against Philadelphia.
+
+292
+00:13:02,698 --> 00:13:03,498
+[SPEAKER_01]: A tough team, huh?
+
+293
+00:13:03,518 --> 00:13:05,279
+[SPEAKER_00]: Well, they were a pretty club.
+
+294
+00:13:05,299 --> 00:13:09,182
+[SPEAKER_00]: They had Grove and Earnshaw.
+
+295
+00:13:10,226 --> 00:13:11,607
+[SPEAKER_00]: Jimmy Fox, and Cochran.
+
+296
+00:13:11,667 --> 00:13:15,370
+[SPEAKER_01]: Yeah, you got a pitch to Simmons, and Fox, and Cochran.
+
+297
+00:13:15,390 --> 00:13:17,151
+[SPEAKER_01]: You don't have a break in that lineup, do you?
+
+298
+00:13:17,171 --> 00:13:18,132
+[SPEAKER_00]: No, not much.
+
+299
+00:13:18,552 --> 00:13:19,793
+[SPEAKER_00]: But Fox had a home runoff.
+
+300
+00:13:19,813 --> 00:13:22,975
+[SPEAKER_00]: He was going right over the roof of that Shy Park.
+
+301
+00:13:25,056 --> 00:13:27,118
+[SPEAKER_00]: But a lot of people don't know it, too.
+
+302
+00:13:27,218 --> 00:13:29,700
+[SPEAKER_00]: I was in, what year was I, 28?
+
+303
+00:13:30,080 --> 00:13:33,002
+[SPEAKER_00]: I don't know, 32?
+
+304
+00:13:33,642 --> 00:13:38,526
+[SPEAKER_00]: Was it 32 when we were playing Boston at Philadelphia?
+
+305
+00:13:41,748 --> 00:13:44,830
+[SPEAKER_00]: Well, anyway, that's Ruth.
+
+306
+00:13:44,870 --> 00:13:50,535
+[SPEAKER_00]: Last year, he played ball with Boston, the Braves.
+
+307
+00:13:50,555 --> 00:13:51,896
+[SPEAKER_01]: That'd be 35, maybe.
+
+308
+00:13:51,916 --> 00:13:52,977
+[SPEAKER_00]: Was it 35?
+
+309
+00:13:53,057 --> 00:13:55,298
+[SPEAKER_00]: I'm getting all balled up here.
+
+310
+00:13:55,318 --> 00:13:58,361
+[SPEAKER_01]: I think he played his last year of the Yankees at 34.
+
+311
+00:13:58,401 --> 00:14:01,423
+[SPEAKER_00]: I'm trying to think.
+
+312
+00:14:03,385 --> 00:14:04,866
+[SPEAKER_00]: What was my last year with the?
+
+313
+00:14:07,388 --> 00:14:08,789
+[SPEAKER_00]: Yeah, 35, I guess it was.
+
+314
+00:14:08,809 --> 00:14:10,510
+[SPEAKER_00]: But my last year was 1940 up there.
+
+315
+00:14:12,898 --> 00:14:17,299
+[SPEAKER_00]: I was the last one to ever pitch to him, you know.
+
+316
+00:14:17,579 --> 00:14:19,480
+[SPEAKER_00]: I struck out the last time.
+
+317
+00:14:19,500 --> 00:14:22,560
+[SPEAKER_00]: I struck out the last two times.
+
+318
+00:14:22,580 --> 00:14:27,121
+[SPEAKER_00]: Last time, well, if he comes by and pitches, I said, if I can't hit those kind of kids, I'm gone flying.
+
+319
+00:14:27,842 --> 00:14:31,863
+[SPEAKER_00]: So I threw my high fast ball, you know, and he never hit a home run.
+
+320
+00:14:31,903 --> 00:14:35,123
+[SPEAKER_00]: The only major league player who never hit a home run is Baker Pohl.
+
+321
+00:14:35,263 --> 00:14:37,424
+[SPEAKER_00]: And it's just a fan box.
+
+322
+00:14:40,038 --> 00:14:44,560
+[SPEAKER_00]: The left field, the right field, they had that big, looked like a three-stop.
+
+323
+00:14:45,300 --> 00:14:45,841
+[SPEAKER_00]: Oh, ten.
+
+324
+00:14:45,861 --> 00:14:53,504
+[SPEAKER_00]: I mean, you could see tents all around it where Chuck Cline and those left-hand hitters used to... Yeah, how do you pitch in a place like that where you have a...
+
+325
+00:14:53,624 --> 00:14:55,585
+[SPEAKER_00]: Throw your best pitch and back up to third base.
+
+326
+00:14:56,045 --> 00:14:57,886
+[SPEAKER_00]: That's about the best thing I can say.
+
+327
+00:14:57,966 --> 00:15:02,608
+[SPEAKER_01]: You've got to keep it to those left-hand hitters really away from it, you know?
+
+328
+00:15:02,708 --> 00:15:06,550
+[SPEAKER_00]: Oh, yeah, you pitch away and groove that pitch over to the inside and let them pull.
+
+329
+00:15:06,570 --> 00:15:07,570
+[SPEAKER_01]: Groove?
+
+330
+00:15:08,540 --> 00:15:09,640
+[SPEAKER_00]: Yeah, he's hit a couple of them.
+
+331
+00:15:09,660 --> 00:15:13,882
+[SPEAKER_00]: He's still up in orbit, you know, flying around up there.
+
+332
+00:15:14,442 --> 00:15:19,663
+[SPEAKER_01]: But it's got to be hard on the pitcher, though, to know that that field is so close out there.
+
+333
+00:15:19,683 --> 00:15:21,344
+[SPEAKER_01]: I guess you just have to do it.
+
+334
+00:15:21,404 --> 00:15:22,824
+[SPEAKER_00]: I had pretty good luck with Dave.
+
+335
+00:15:24,305 --> 00:15:25,225
+[SPEAKER_00]: I'd pitch him inside.
+
+336
+00:15:25,245 --> 00:15:26,825
+[SPEAKER_00]: You have to pitch him outside.
+
+337
+00:15:26,865 --> 00:15:27,706
+[SPEAKER_00]: It's a little dangerous.
+
+338
+00:15:29,346 --> 00:15:34,588
+[SPEAKER_01]: Schumrich was saying he played Philadelphia there and hit a right-hand hitter, though.
+
+339
+00:15:34,608 --> 00:15:35,708
+[SPEAKER_01]: He was able to put him
+
+340
+00:15:36,173 --> 00:15:37,473
+[SPEAKER_01]: Against that wall pretty well.
+
+341
+00:15:37,593 --> 00:15:38,674
+[SPEAKER_00]: Oh, yeah, yeah.
+
+342
+00:15:38,914 --> 00:15:41,114
+[SPEAKER_00]: It wasn't that far that the right-hand hitters couldn't hit.
+
+343
+00:15:41,975 --> 00:15:43,515
+[SPEAKER_00]: Oh, right-hand hitters couldn't hit them.
+
+344
+00:15:43,675 --> 00:15:45,696
+[SPEAKER_00]: Against their west, they'd hit a lot up there.
+
+345
+00:15:46,656 --> 00:15:48,076
+[SPEAKER_00]: West and down Hurston.
+
+346
+00:15:48,196 --> 00:15:51,397
+[SPEAKER_00]: Oh, a lot of those fellas didn't learn to hit that outside pitch.
+
+347
+00:15:52,798 --> 00:15:54,738
+[SPEAKER_00]: Well, they tried to pitch inside to them, too.
+
+348
+00:15:56,579 --> 00:16:04,061
+[SPEAKER_00]: And the low-ball pitchers, you know, second-ball pitchers, they had a lot better luck, because they hit the ball on the ground.
+
+349
+00:16:05,121 --> 00:16:05,621
+[SPEAKER_00]: I was higher.
+
+350
+00:16:06,286 --> 00:16:09,048
+[SPEAKER_00]: part of a high fastball pitcher that hit fly balls.
+
+351
+00:16:10,269 --> 00:16:16,513
+[SPEAKER_00]: So this has almost all the relief work I did, which was an awful lot of it.
+
+352
+00:16:16,573 --> 00:16:21,216
+[SPEAKER_00]: I'd go in with men on bases that pitched my strength, high fastballs.
+
+353
+00:16:23,137 --> 00:16:28,901
+[SPEAKER_00]: It's logical for a curveball hitting the ground or a sinker to make them hit the ball on the ground.
+
+354
+00:16:28,921 --> 00:16:33,164
+[SPEAKER_00]: I was throwing my best pitches, and they had to hit in.
+
+355
+00:16:34,542 --> 00:16:35,123
+[SPEAKER_00]: That was it.
+
+356
+00:16:35,143 --> 00:16:36,504
+[SPEAKER_00]: My fastball used to raise.
+
+357
+00:16:36,704 --> 00:16:37,985
+[SPEAKER_00]: They'd hit under it.
+
+358
+00:16:40,467 --> 00:16:45,312
+[SPEAKER_01]: When you came up first back with the Tigers, did anybody give you any help in your pitching?
+
+359
+00:16:45,352 --> 00:16:49,455
+[SPEAKER_01]: Did you at least have to pick it up on your own?
+
+360
+00:16:49,875 --> 00:16:50,836
+[SPEAKER_00]: Mostly, yes.
+
+361
+00:16:50,876 --> 00:16:53,258
+[SPEAKER_00]: Of course, we'd have meetings and all this.
+
+362
+00:16:54,399 --> 00:16:56,581
+[SPEAKER_01]: Who were some of the pitchers for Detroit then?
+
+363
+00:16:57,001 --> 00:16:59,403
+[SPEAKER_00]: George Dowse, Howard Empey.
+
+364
+00:16:59,423 --> 00:17:01,225
+[SPEAKER_01]: Did they give you any help or tips?
+
+365
+00:17:01,485 --> 00:17:02,206
+[SPEAKER_00]: Red Oldham.
+
+366
+00:17:04,086 --> 00:17:06,608
+[SPEAKER_00]: And her and Paulette, of course, we were buddies.
+
+367
+00:17:06,628 --> 00:17:09,851
+[SPEAKER_00]: And Burt Cole.
+
+368
+00:17:11,452 --> 00:17:12,193
+[SPEAKER_01]: And King Cole.
+
+369
+00:17:12,793 --> 00:17:20,599
+[SPEAKER_00]: And Burt Cole, and George Dallas, Dutch Leonard, and Howard Empty, of course.
+
+370
+00:17:24,322 --> 00:17:25,643
+[SPEAKER_01]: I understood the group.
+
+371
+00:17:25,763 --> 00:17:29,306
+[SPEAKER_00]: And our outfielder was Beach, Cobb, and Heilman.
+
+372
+00:17:29,847 --> 00:17:30,807
+[SPEAKER_00]: Some outfielder.
+
+373
+00:17:30,827 --> 00:17:31,508
+[SPEAKER_00]: Good outfielder.
+
+374
+00:17:32,743 --> 00:17:34,224
+[SPEAKER_00]: Lou Blue was on first base.
+
+375
+00:17:35,164 --> 00:17:36,285
+[SPEAKER_00]: Cutshaw was on second.
+
+376
+00:17:36,345 --> 00:17:39,526
+[SPEAKER_00]: Rick Me on short.
+
+377
+00:17:39,747 --> 00:17:40,327
+[SPEAKER_00]: McManus?
+
+378
+00:17:40,727 --> 00:17:41,988
+[SPEAKER_00]: Jones on third base.
+
+379
+00:17:42,488 --> 00:17:45,369
+[SPEAKER_00]: Passer, Mannion, and Widow were our catchers.
+
+380
+00:17:46,290 --> 00:17:47,730
+[SPEAKER_00]: I can remember that club pretty good.
+
+381
+00:17:47,871 --> 00:17:48,051
+[SPEAKER_00]: Yeah.
+
+382
+00:17:48,931 --> 00:17:51,072
+[SPEAKER_01]: Did Marty McManus come up, or Moriarty?
+
+383
+00:17:51,132 --> 00:17:52,073
+[SPEAKER_00]: Oh, they were the Browns.
+
+384
+00:17:52,533 --> 00:17:54,914
+[SPEAKER_00]: That's right.
+
+385
+00:17:54,934 --> 00:17:57,135
+[SPEAKER_00]: Moriarty came over later, I guess.
+
+386
+00:17:57,355 --> 00:17:59,376
+[SPEAKER_00]: Catfish Williams, we called him, Williams.
+
+387
+00:17:59,416 --> 00:18:00,937
+[SPEAKER_00]: Van Gelder, Danforth.
+
+388
+00:18:01,852 --> 00:18:02,312
+[SPEAKER_00]: Sissler.
+
+389
+00:18:02,332 --> 00:18:03,213
+[SPEAKER_00]: Dave Danforth.
+
+390
+00:18:03,233 --> 00:18:06,055
+[SPEAKER_00]: He had the Emory ball or the foreign substance or something.
+
+391
+00:18:06,976 --> 00:18:08,837
+[SPEAKER_00]: George Sissler, great hitter.
+
+392
+00:18:10,478 --> 00:18:14,941
+[SPEAKER_00]: He hit that Thompson ball, and he'd be, of course, first player to throw a shortstop and get him out.
+
+393
+00:18:14,981 --> 00:18:15,802
+[SPEAKER_00]: He was fast.
+
+394
+00:18:16,242 --> 00:18:19,504
+[SPEAKER_00]: He was fast.
+
+395
+00:18:19,624 --> 00:18:20,925
+[SPEAKER_00]: Oh, I don't know.
+
+396
+00:18:20,945 --> 00:18:23,507
+[SPEAKER_00]: He could go down and talk about all-star clubs.
+
+397
+00:18:23,547 --> 00:18:25,728
+[SPEAKER_00]: He doesn't.
+
+398
+00:18:25,808 --> 00:18:27,209
+[SPEAKER_00]: He really has seen them all.
+
+399
+00:18:27,349 --> 00:18:28,270
+[SPEAKER_00]: Yeah, he's seen them all.
+
+400
+00:18:28,290 --> 00:18:29,691
+[SPEAKER_01]: How about Trish Speaker?
+
+401
+00:18:29,711 --> 00:18:30,852
+[SPEAKER_01]: Do you have any trouble pitching to him?
+
+402
+00:18:31,391 --> 00:18:33,292
+[SPEAKER_01]: Trish was living with Cleveland.
+
+403
+00:18:33,413 --> 00:18:34,373
+[SPEAKER_01]: How would you pitch to him?
+
+404
+00:18:34,854 --> 00:18:35,874
+[SPEAKER_00]: I pitched him outside.
+
+405
+00:18:36,895 --> 00:18:38,537
+[SPEAKER_00]: It was short right field, too.
+
+406
+00:18:38,977 --> 00:18:42,780
+[SPEAKER_01]: I grew up in Cleveland, saw games there, that short right field wall.
+
+407
+00:18:43,160 --> 00:18:44,921
+[SPEAKER_01]: Oh, the Soles.
+
+408
+00:18:47,243 --> 00:18:48,764
+[SPEAKER_00]: I forget that.
+
+409
+00:18:48,985 --> 00:18:51,006
+[SPEAKER_00]: Trish was one of the greatest.
+
+410
+00:18:51,046 --> 00:18:55,049
+[SPEAKER_00]: He was one of the greatest going back after a fly ball you ever seen.
+
+411
+00:18:56,871 --> 00:18:59,533
+[SPEAKER_00]: He played shallow, but he didn't hit a ball that seemed like it just
+
+412
+00:19:00,912 --> 00:19:09,615
+[SPEAKER_01]: They say he used to make some unassisted double plays by catching the low-laners coming in, or else picking them off second.
+
+413
+00:19:10,035 --> 00:19:13,936
+[SPEAKER_01]: Did Topper Rigney make an unassisted triple play while you were with him?
+
+414
+00:19:14,216 --> 00:19:14,496
+[SPEAKER_00]: Who?
+
+415
+00:19:14,757 --> 00:19:15,077
+[SPEAKER_01]: Rigney?
+
+416
+00:19:16,277 --> 00:19:17,237
+[SPEAKER_00]: Not that I remember.
+
+417
+00:19:18,438 --> 00:19:19,298
+[SPEAKER_00]: Or Johnny Noone?
+
+418
+00:19:19,318 --> 00:19:19,878
+[SPEAKER_00]: Could have.
+
+419
+00:19:21,079 --> 00:19:25,400
+[SPEAKER_00]: Johnny Noone, I think Johnny came up a little later than he did.
+
+420
+00:19:26,552 --> 00:19:28,313
+[SPEAKER_00]: But he was with Jersey City.
+
+421
+00:19:28,353 --> 00:19:30,013
+[SPEAKER_00]: He was with the FBI League.
+
+422
+00:19:30,053 --> 00:19:31,373
+[SPEAKER_00]: He went to the Yankees.
+
+423
+00:19:32,034 --> 00:19:34,354
+[SPEAKER_01]: I think he made an unassisted triple play somewhere along there.
+
+424
+00:19:34,374 --> 00:19:36,795
+[SPEAKER_01]: You're talking about Glenn Wright's unassisted triple play.
+
+425
+00:19:37,315 --> 00:19:47,278
+[SPEAKER_00]: Well, Glenn Wright and then him and two guys from Pittsburgh, Trader and Ben Wright.
+
+426
+00:19:48,178 --> 00:19:50,999
+[SPEAKER_00]: And at the fight, somebody hit a ground ball through there somewhere.
+
+427
+00:19:51,279 --> 00:19:52,179
+[SPEAKER_00]: They're that good, huh?
+
+428
+00:19:52,199 --> 00:19:53,960
+[SPEAKER_00]: Well, both of them could throw like bullets.
+
+429
+00:19:55,286 --> 00:19:56,987
+[SPEAKER_01]: Wright said he didn't know where he was going to go, though.
+
+430
+00:19:57,447 --> 00:20:02,248
+[SPEAKER_01]: He just broke up the concrete wall behind first base there.
+
+431
+00:20:03,229 --> 00:20:07,470
+[SPEAKER_01]: Charlie Grimm, he says, saved him a lot with his fancy catches there.
+
+432
+00:20:07,530 --> 00:20:08,871
+[SPEAKER_01]: He was a great ball player, Charlie.
+
+433
+00:20:09,511 --> 00:20:10,811
+[SPEAKER_01]: Did you work much on your fielding?
+
+434
+00:20:10,831 --> 00:20:15,273
+[SPEAKER_01]: Do they make new pitchers that will work on your fielding, you know, to field bunts?
+
+435
+00:20:15,333 --> 00:20:16,853
+[SPEAKER_00]: Oh, spring training.
+
+436
+00:20:17,854 --> 00:20:21,135
+[SPEAKER_00]: Went through all that covering first base and, you know, fielding bunts.
+
+437
+00:20:22,978 --> 00:20:25,180
+[SPEAKER_01]: I don't think they do much of that today, do you?
+
+438
+00:20:25,240 --> 00:20:25,820
+[SPEAKER_00]: I don't know.
+
+439
+00:20:28,282 --> 00:20:29,723
+[SPEAKER_00]: I don't drive much anymore.
+
+440
+00:20:30,003 --> 00:20:34,085
+[SPEAKER_00]: All I do is drive over to the store.
+
+441
+00:20:35,726 --> 00:20:36,807
+[SPEAKER_01]: Work on their fundamentals.
+
+442
+00:20:36,827 --> 00:20:39,008
+[SPEAKER_01]: When was it?
+
+443
+00:20:39,048 --> 00:20:42,311
+[SPEAKER_00]: The 50th anniversary?
+
+444
+00:20:42,331 --> 00:20:43,611
+[SPEAKER_00]: What was it?
+
+445
+00:20:43,691 --> 00:20:43,811
+[SPEAKER_00]: 1976?
+
+446
+00:20:53,342 --> 00:20:54,162
+[SPEAKER_00]: down to the Cardinals.
+
+447
+00:20:55,462 --> 00:20:59,603
+[SPEAKER_00]: And they invited us back to St. Louis for the 50th anniversary.
+
+448
+00:21:00,704 --> 00:21:04,704
+[SPEAKER_00]: And the doctor didn't want me to go alone, so I took my son along.
+
+449
+00:21:05,925 --> 00:21:07,845
+[SPEAKER_00]: I paid his way and mine too.
+
+450
+00:21:09,665 --> 00:21:12,766
+[SPEAKER_00]: And there was eight of us living.
+
+451
+00:21:15,727 --> 00:21:19,947
+[SPEAKER_00]: Of course, Sir Jess Haynes was alive, but he didn't like that he was home.
+
+452
+00:21:20,327 --> 00:21:21,648
+[SPEAKER_00]: Bob O'Farrell was there?
+
+453
+00:21:21,768 --> 00:21:22,588
+[SPEAKER_00]: Bob was there.
+
+454
+00:21:24,198 --> 00:21:31,442
+[SPEAKER_00]: And I'll be darned.
+
+455
+00:21:36,245 --> 00:21:37,806
+[SPEAKER_01]: Who was the first baseman on that team?
+
+456
+00:21:38,066 --> 00:21:38,586
+[SPEAKER_01]: Probably.
+
+457
+00:21:38,606 --> 00:21:39,547
+[SPEAKER_01]: Yeah.
+
+458
+00:21:39,567 --> 00:21:40,527
+[SPEAKER_01]: He wouldn't be there.
+
+459
+00:21:42,648 --> 00:21:44,429
+[SPEAKER_01]: Frisch wouldn't have been there.
+
+460
+00:21:44,449 --> 00:21:44,809
+[SPEAKER_00]: What?
+
+461
+00:21:44,829 --> 00:21:45,990
+[SPEAKER_00]: Frisch wouldn't have been there.
+
+462
+00:21:46,310 --> 00:21:47,331
+[SPEAKER_00]: Frisch wasn't with you.
+
+463
+00:21:47,631 --> 00:21:48,011
+[SPEAKER_00]: Oh, no.
+
+464
+00:21:48,051 --> 00:21:48,111
+[SPEAKER_00]: No.
+
+465
+00:21:48,151 --> 00:21:49,492
+[SPEAKER_00]: He probably would have passed away.
+
+466
+00:21:49,925 --> 00:21:51,606
+[SPEAKER_01]: Well, I mean, Frisch wasn't even with you then.
+
+467
+00:21:51,666 --> 00:21:52,106
+[SPEAKER_01]: No, no.
+
+468
+00:21:52,186 --> 00:21:55,267
+[SPEAKER_01]: I'm afraid the year after that wasn't for Hornby.
+
+469
+00:21:56,967 --> 00:21:58,448
+[SPEAKER_00]: Dowsett, Tanner Dowsett.
+
+470
+00:22:00,068 --> 00:22:01,909
+[SPEAKER_01]: Was Ernie Orsatti with that team?
+
+471
+00:22:01,929 --> 00:22:03,589
+[SPEAKER_00]: Ernie Orsatti, or did he come in later?
+
+472
+00:22:03,649 --> 00:22:04,990
+[SPEAKER_00]: He kept it.
+
+473
+00:22:05,030 --> 00:22:07,030
+[SPEAKER_00]: He wasn't on that team in 2016.
+
+474
+00:22:07,850 --> 00:22:09,391
+[SPEAKER_00]: No, Pepper Martin was on there.
+
+475
+00:22:09,931 --> 00:22:11,091
+[SPEAKER_00]: He'd passed away.
+
+476
+00:22:11,111 --> 00:22:13,032
+[SPEAKER_00]: But there was just eight of us.
+
+477
+00:22:13,112 --> 00:22:16,473
+[SPEAKER_00]: It's funny, I can't think of the rest of them.
+
+478
+00:22:21,832 --> 00:22:32,620
+[SPEAKER_00]: They give it all one of those big plaques, you know, that put them back from when they first started playing ball right to the last.
+
+479
+00:22:32,640 --> 00:22:35,683
+[SPEAKER_00]: Here's a picture of it.
+
+480
+00:22:35,763 --> 00:22:37,204
+[SPEAKER_00]: I'll show it to you.
+
+481
+00:22:37,264 --> 00:22:38,325
+[SPEAKER_00]: I'll bring it out.
+
+482
+00:22:38,605 --> 00:22:39,365
+[SPEAKER_00]: Thank you, Hank.
+
+483
+00:22:39,405 --> 00:22:39,585
+[SPEAKER_00]: Rita.
+
+484
+00:22:39,746 --> 00:22:41,987
+[SPEAKER_00]: It's beautiful.
+
+485
+00:22:51,472 --> 00:22:54,095
+[SPEAKER_01]: You did pretty good artwork, huh?
+
+486
+00:22:54,175 --> 00:22:56,337
+[SPEAKER_01]: That's a couple of them, I can see.
+
+487
+00:22:56,357 --> 00:22:57,638
+Isn't that beautiful?
+
+488
+00:23:18,981 --> 00:23:21,763
+[SPEAKER_01]: It's like it appears in who's who in baseball.
+
+489
+00:23:22,344 --> 00:23:24,986
+[SPEAKER_01]: That's the way your record appears in who's who in baseball, I think.
+
+490
+00:23:26,527 --> 00:23:33,193
+[SPEAKER_00]: See, the whole thing, even the World Series, outside of the 2060, I didn't get in any ballgames in the 2060s.
+
+491
+00:23:34,514 --> 00:23:42,220
+[SPEAKER_00]: But I was on the roster, you know what I mean?
+
+492
+00:23:42,281 --> 00:23:44,182
+[SPEAKER_00]: Even got right to the first start, wasn't it?
+
+493
+00:23:44,202 --> 00:23:44,482
+[SPEAKER_00]: Port 20.
+
+494
+00:23:47,655 --> 00:23:48,475
+[SPEAKER_00]: What was it?
+
+495
+00:23:48,535 --> 00:23:49,856
+[SPEAKER_00]: I won 13, lost 22.
+
+496
+00:23:49,996 --> 00:23:50,516
+[SPEAKER_01]: 12 and 26.
+
+497
+00:23:50,797 --> 00:23:52,197
+[SPEAKER_01]: What happened that year?
+
+498
+00:23:53,178 --> 00:23:54,858
+[SPEAKER_00]: Well, I just didn't have that kind of a club.
+
+499
+00:23:54,938 --> 00:23:55,879
+[SPEAKER_00]: I pitched good balls.
+
+500
+00:23:55,899 --> 00:23:57,440
+[SPEAKER_01]: Yeah, your ERA was pretty good.
+
+501
+00:23:57,540 --> 00:23:58,500
+[SPEAKER_00]: Yeah.
+
+502
+00:23:58,520 --> 00:23:59,361
+[SPEAKER_00]: 3.82.
+
+503
+00:23:59,561 --> 00:24:01,802
+[SPEAKER_00]: I pitched good balls.
+
+504
+00:24:05,944 --> 00:24:09,145
+[SPEAKER_01]: Boy, you've had long seasons out there in the Coast League, didn't you?
+
+505
+00:24:09,185 --> 00:24:09,385
+[SPEAKER_01]: What?
+
+506
+00:24:09,625 --> 00:24:10,846
+[SPEAKER_01]: Long seasons.
+
+507
+00:24:11,046 --> 00:24:11,426
+[SPEAKER_00]: Yeah.
+
+508
+00:24:11,546 --> 00:24:12,247
+[SPEAKER_01]: Oh, yeah.
+
+509
+00:24:13,067 --> 00:24:14,108
+[SPEAKER_01]: 100 and 200 games, maybe.
+
+510
+00:24:14,128 --> 00:24:14,688
+[SPEAKER_00]: Yeah, right.
+
+511
+00:24:16,400 --> 00:24:18,401
+[SPEAKER_01]: Did you pitch against Paul Strand out there?
+
+512
+00:24:19,041 --> 00:24:19,321
+[SPEAKER_00]: Oh, yeah.
+
+513
+00:24:19,721 --> 00:24:20,722
+[SPEAKER_01]: Remember Paul Strand?
+
+514
+00:24:20,742 --> 00:24:21,202
+[SPEAKER_00]: Yeah.
+
+515
+00:24:21,862 --> 00:24:23,603
+[SPEAKER_00]: Wasn't he with Salt Lake?
+
+516
+00:24:23,623 --> 00:24:25,504
+[SPEAKER_01]: Yeah, he got over 300 hits one year.
+
+517
+00:24:26,324 --> 00:24:27,525
+[SPEAKER_00]: Bill Rummer was up there.
+
+518
+00:24:28,185 --> 00:24:28,645
+[SPEAKER_00]: Earl Sheely.
+
+519
+00:24:28,665 --> 00:24:30,886
+[SPEAKER_00]: Remember Earl Sheely?
+
+520
+00:24:31,006 --> 00:24:31,247
+[SPEAKER_00]: Oh, yeah.
+
+521
+00:24:31,287 --> 00:24:32,127
+[SPEAKER_00]: He was with Salt Lake.
+
+522
+00:24:32,147 --> 00:24:32,567
+[SPEAKER_00]: Uh-huh.
+
+523
+00:24:34,208 --> 00:24:42,271
+[SPEAKER_01]: But Strand had such a great year, and they paid so much money for him, the athletics, and he couldn't do a thing up there.
+
+524
+00:24:43,612 --> 00:24:45,393
+[SPEAKER_00]: I just missed out on that pitching, too.
+
+525
+00:24:47,163 --> 00:24:48,443
+[SPEAKER_00]: Major League pitching, you know.
+
+526
+00:24:48,903 --> 00:24:49,364
+[SPEAKER_00]: Is that right?
+
+527
+00:24:49,384 --> 00:24:57,666
+[SPEAKER_00]: Three or four years, I just... You know, Garagiola... Garagiola, he started something...
+
+528
+00:24:59,166 --> 00:25:00,266
+[SPEAKER_00]: Didn't last very long, but...
+
+529
+00:25:01,227 --> 00:25:09,689
+[SPEAKER_00]: Tried to get some of these old-timers like myself... Been up the majors for... 10, 12, 15 years or better, you know.
+
+530
+00:25:10,429 --> 00:25:11,569
+[SPEAKER_00]: Get them some kind of a...
+
+531
+00:25:13,170 --> 00:25:14,310
+[SPEAKER_00]: Pitch, and you know what I mean.
+
+532
+00:25:17,153 --> 00:25:19,074
+[SPEAKER_00]: So I was up there 17 and a half years.
+
+533
+00:25:19,154 --> 00:25:22,215
+[SPEAKER_00]: If I had a little bit more time, well.
+
+534
+00:25:23,695 --> 00:25:25,596
+[SPEAKER_01]: You were up there more than most of them by far.
+
+535
+00:25:25,736 --> 00:25:29,577
+[SPEAKER_00]: Oh, yeah.
+
+536
+00:25:29,637 --> 00:25:30,117
+[SPEAKER_01]: Yeah.
+
+537
+00:25:30,157 --> 00:25:30,697
+[SPEAKER_01]: 542 games.
+
+538
+00:25:30,977 --> 00:25:36,339
+[SPEAKER_00]: And you get right at that age, you know where you could, every little thing would help.
+
+539
+00:25:36,799 --> 00:25:37,119
+[SPEAKER_01]: Yeah.
+
+540
+00:25:38,460 --> 00:25:40,140
+[SPEAKER_01]: I don't know about the modern players.
+
+541
+00:25:40,200 --> 00:25:44,702
+[SPEAKER_01]: They just ignored the old timers, the modern players and their pension.
+
+542
+00:25:46,459 --> 00:25:48,481
+[SPEAKER_01]: These guys are up for four years, and they get a pension.
+
+543
+00:25:49,021 --> 00:25:50,062
+[SPEAKER_01]: That's the minimum, you see.
+
+544
+00:25:50,122 --> 00:25:50,923
+[SPEAKER_00]: Yeah, four years.
+
+545
+00:25:51,964 --> 00:25:59,591
+[SPEAKER_00]: Oh, I thought, I don't know, baseball now, not only baseball, but to me, all sports has gone a little bit overhead.
+
+546
+00:25:59,711 --> 00:26:10,160
+[SPEAKER_00]: Now, the average person, you know, $6, $7, $8 a year, the physicians can hardly do it.
+
+547
+00:26:10,301 --> 00:26:10,681
+[SPEAKER_01]: Yeah.
+
+548
+00:26:11,462 --> 00:26:12,843
+[SPEAKER_00]: Basketball, same way.
+
+549
+00:26:16,779 --> 00:26:17,399
+[SPEAKER_00]: I like sports.
+
+550
+00:26:17,459 --> 00:26:19,480
+[SPEAKER_00]: I like all kinds of sports.
+
+551
+00:26:19,520 --> 00:26:21,400
+[SPEAKER_00]: I participated in a lot of them.
+
+552
+00:26:22,040 --> 00:26:22,580
+[SPEAKER_00]: Golf.
+
+553
+00:26:23,321 --> 00:26:26,061
+[SPEAKER_01]: What did you do in the off-season during your career?
+
+554
+00:26:26,081 --> 00:26:27,022
+[SPEAKER_01]: Not much of anything.
+
+555
+00:26:27,042 --> 00:26:27,542
+[SPEAKER_01]: Hunt?
+
+556
+00:26:27,642 --> 00:26:28,462
+[SPEAKER_01]: Fish?
+
+557
+00:26:28,502 --> 00:26:28,802
+[SPEAKER_01]: Fish.
+
+558
+00:26:29,182 --> 00:26:29,962
+[SPEAKER_01]: A lot of fishing.
+
+559
+00:26:30,642 --> 00:26:31,263
+[SPEAKER_01]: Played golf.
+
+560
+00:26:31,383 --> 00:26:34,503
+[SPEAKER_01]: You kept in shape pretty well then?
+
+561
+00:26:34,523 --> 00:26:34,923
+[SPEAKER_01]: Oh yeah.
+
+562
+00:26:35,003 --> 00:26:36,384
+[SPEAKER_01]: Then I did small jobs.
+
+563
+00:26:43,618 --> 00:26:45,919
+[SPEAKER_01]: But when spring training came, you were ready to go.
+
+564
+00:26:45,999 --> 00:26:46,399
+[SPEAKER_01]: Oh, yeah.
+
+565
+00:26:46,419 --> 00:26:46,660
+[SPEAKER_01]: Yeah.
+
+566
+00:26:48,701 --> 00:26:55,124
+[SPEAKER_01]: What were some of the toughest batters you faced?
+
+567
+00:26:56,584 --> 00:26:57,125
+[SPEAKER_00]: Oh, gosh.
+
+568
+00:26:57,145 --> 00:26:57,945
+[SPEAKER_00]: Trying to get out.
+
+569
+00:26:58,665 --> 00:26:59,626
+[SPEAKER_01]: Any standouts?
+
+570
+00:26:59,646 --> 00:27:00,646
+[SPEAKER_00]: There were so many of them.
+
+571
+00:27:01,507 --> 00:27:06,789
+[SPEAKER_00]: Well, I'll tell you, the greatest ball player I hit that ever put on a pair of ball shoes was Babe Ruth.
+
+572
+00:27:08,650 --> 00:27:11,952
+[SPEAKER_00]: When you mentioned Babe Ruth, the first thing that hit her was your man, Home Run.
+
+573
+00:27:13,180 --> 00:27:18,343
+[SPEAKER_00]: But there's a fella that still holds the World Series record of pitching, I think, in the World Series.
+
+574
+00:27:20,024 --> 00:27:21,144
+[SPEAKER_00]: A great outfielder.
+
+575
+00:27:21,184 --> 00:27:22,565
+[SPEAKER_00]: He can throw like a bullet.
+
+576
+00:27:22,585 --> 00:27:23,766
+[SPEAKER_00]: A good baserunner.
+
+577
+00:27:25,006 --> 00:27:27,688
+[SPEAKER_00]: And one of the best personalities a man could ever meet.
+
+578
+00:27:27,728 --> 00:27:29,408
+[SPEAKER_00]: You know, he called everybody kid.
+
+579
+00:27:29,669 --> 00:27:33,010
+[SPEAKER_00]: You know, if he'd beat the president, he'd say, I didn't know you, kid.
+
+580
+00:27:33,831 --> 00:27:34,851
+[SPEAKER_00]: That's the truth.
+
+581
+00:27:34,871 --> 00:27:35,732
+[SPEAKER_00]: Everybody was a kid.
+
+582
+00:27:36,712 --> 00:27:38,433
+[SPEAKER_00]: And I've seen him many times in New York.
+
+583
+00:27:38,793 --> 00:27:41,535
+[SPEAKER_00]: He had that big Packard sedan, you know, after the ballgame.
+
+584
+00:27:43,298 --> 00:27:44,738
+[SPEAKER_00]: He had a new club every day.
+
+585
+00:27:44,758 --> 00:27:46,879
+[SPEAKER_00]: He'd come out here, didn't have to have one broke in.
+
+586
+00:27:46,899 --> 00:27:49,480
+[SPEAKER_00]: He'd take them and throw them up in the stands.
+
+587
+00:27:49,520 --> 00:27:53,801
+[SPEAKER_00]: And then when he'd get dressed, he'd go out in the parking lot with his car, and there'd be a whole band of kids.
+
+588
+00:27:54,801 --> 00:27:57,581
+[SPEAKER_00]: He'd sit in the running board and sign the kids' autographs.
+
+589
+00:27:57,642 --> 00:28:03,103
+[SPEAKER_00]: He'd let them load as many as he could, get in the Packard, take them over to the subway, or wherever they're going.
+
+590
+00:28:05,503 --> 00:28:07,464
+[SPEAKER_00]: Oh, he was a great guy.
+
+591
+00:28:07,484 --> 00:28:08,104
+[SPEAKER_00]: Great.
+
+592
+00:28:11,145 --> 00:28:12,285
+[SPEAKER_01]: What was Harry Heilman like?
+
+593
+00:28:12,971 --> 00:28:13,511
+[SPEAKER_00]: Good fella.
+
+594
+00:28:13,972 --> 00:28:14,512
+[SPEAKER_00]: Good fella.
+
+595
+00:28:16,753 --> 00:28:17,313
+[SPEAKER_00]: Good fella.
+
+596
+00:28:17,753 --> 00:28:19,915
+[SPEAKER_01]: Is there a tension between Heilman and Cobb at all?
+
+597
+00:28:19,935 --> 00:28:20,255
+[SPEAKER_01]: A little.
+
+598
+00:28:20,735 --> 00:28:21,195
+[SPEAKER_01]: A little.
+
+599
+00:28:23,977 --> 00:28:26,598
+[SPEAKER_00]: How they call them appreciators and stuff like that, you know.
+
+600
+00:28:26,818 --> 00:28:27,098
+What?
+
+601
+00:28:27,538 --> 00:28:28,079
+[SPEAKER_00]: What for?
+
+602
+00:28:28,679 --> 00:28:36,763
+[SPEAKER_00]: They say there's a lot of truth, but Harry had it in his contract to keep us out of argument.
+
+603
+00:28:37,294 --> 00:28:37,854
+[SPEAKER_00]: With time.
+
+604
+00:28:37,874 --> 00:28:38,535
+[SPEAKER_00]: Oh, is that right?
+
+605
+00:28:38,775 --> 00:28:40,255
+[SPEAKER_00]: That's what I'm saying.
+
+606
+00:28:40,315 --> 00:28:43,117
+[SPEAKER_00]: I'm not for sure, but I think it's come from pretty good source.
+
+607
+00:28:45,418 --> 00:28:52,341
+[SPEAKER_00]: But a lot of remarks he'd make, you know, I see it in him in many a fight, you know.
+
+608
+00:28:53,762 --> 00:28:57,564
+[SPEAKER_00]: I like what Efti was traded to Boston.
+
+609
+00:28:59,145 --> 00:29:01,766
+[SPEAKER_00]: Was it Boston or Chicago?
+
+610
+00:29:01,906 --> 00:29:02,386
+[SPEAKER_00]: Boston.
+
+611
+00:29:02,406 --> 00:29:02,906
+[SPEAKER_00]: Boston.
+
+612
+00:29:02,966 --> 00:29:05,207
+[SPEAKER_00]: That's what he pitched the World Series game against Chicago.
+
+613
+00:29:05,468 --> 00:29:06,288
+[SPEAKER_00]: Well, that was a good game.
+
+614
+00:29:07,102 --> 00:29:09,103
+[SPEAKER_00]: He was in Philadelphia then.
+
+615
+00:29:09,123 --> 00:29:12,984
+[SPEAKER_00]: He went to Boston before that.
+
+616
+00:29:13,004 --> 00:29:13,564
+[SPEAKER_00]: Was he?
+
+617
+00:29:13,584 --> 00:29:13,964
+[SPEAKER_00]: Yeah.
+
+618
+00:29:16,185 --> 00:29:17,025
+[SPEAKER_00]: When he was traded.
+
+619
+00:29:17,606 --> 00:29:20,467
+[SPEAKER_00]: Yeah.
+
+620
+00:29:20,507 --> 00:29:21,687
+[SPEAKER_00]: Philadelphia, that's right.
+
+621
+00:29:22,587 --> 00:29:23,768
+[SPEAKER_00]: Was it Philadelphia?
+
+622
+00:29:24,848 --> 00:29:32,711
+[SPEAKER_00]: Well, anyway, we were playing in Detroit, and the first time the cop got up there, Nepke was pitching, down he goes.
+
+623
+00:29:33,071 --> 00:29:36,372
+[SPEAKER_00]: He's throwing bricks at him.
+
+624
+00:29:37,487 --> 00:29:40,448
+[SPEAKER_00]: After the game, he's the first one out of there, out of the clubhouse.
+
+625
+00:29:40,488 --> 00:29:46,309
+[SPEAKER_00]: Boy, he got that empty down and got a hold of his hair and he said, you still mean it?
+
+626
+00:30:04,009 --> 00:30:05,650
+[SPEAKER_01]: He's a pretty big man to get down.
+
+627
+00:30:05,910 --> 00:30:07,190
+[SPEAKER_00]: Oh, he was tall.
+
+628
+00:30:07,230 --> 00:30:11,792
+[SPEAKER_00]: He was a real big scrawl feller.
+
+629
+00:30:12,492 --> 00:30:13,373
+[SPEAKER_00]: He had a lot of fights.
+
+630
+00:30:13,913 --> 00:30:14,373
+[SPEAKER_00]: Shocker.
+
+631
+00:30:14,433 --> 00:30:15,874
+[SPEAKER_00]: He had a fight with Shocker.
+
+632
+00:30:15,974 --> 00:30:19,975
+[SPEAKER_00]: Oh, I don't know.
+
+633
+00:30:19,995 --> 00:30:21,636
+[SPEAKER_00]: The Marbury, wasn't it?
+
+634
+00:30:21,656 --> 00:30:22,536
+[SPEAKER_00]: The Marbury.
+
+635
+00:30:23,237 --> 00:30:26,618
+[SPEAKER_00]: The Washington.
+
+636
+00:30:28,019 --> 00:30:29,939
+[SPEAKER_00]: And, of course, Ruth.
+
+637
+00:30:29,959 --> 00:30:31,360
+[SPEAKER_00]: They'd ever get in battle with Ruth.
+
+638
+00:30:34,198 --> 00:30:37,399
+[SPEAKER_00]: When he'd fight, he'd cut his own mother to get on base, tie with.
+
+639
+00:30:37,419 --> 00:30:39,921
+[SPEAKER_00]: He got a hand in two matters.
+
+640
+00:30:42,682 --> 00:30:44,423
+[SPEAKER_01]: You really never pitched against him, did you?
+
+641
+00:30:44,443 --> 00:30:46,083
+[SPEAKER_01]: You were always on his side, huh?
+
+642
+00:30:46,584 --> 00:30:51,646
+[SPEAKER_00]: Yeah, yeah.
+
+643
+00:30:51,706 --> 00:30:52,887
+[SPEAKER_00]: I had so many good hitters.
+
+644
+00:30:52,987 --> 00:30:57,969
+[SPEAKER_00]: Oh, gosh, I'm afraid I could lose them.
+
+645
+00:30:58,849 --> 00:31:02,191
+[SPEAKER_00]: And you, you, Jerry, and the Wainers, and sisters,
+
+646
+00:31:03,815 --> 00:31:15,561
+[SPEAKER_00]: I don't know if I should just keep my pictures the same way as Alexander, not Madison, but who were before me, Dizzy, Dizzy Dean.
+
+647
+00:31:35,767 --> 00:31:40,128
+[SPEAKER_00]: I saw him high fastball outside and hit that long fly ball.
+
+648
+00:31:40,968 --> 00:31:41,569
+[SPEAKER_00]: He could hit it.
+
+649
+00:31:41,789 --> 00:31:42,469
+[SPEAKER_00]: Yes, he was.
+
+650
+00:31:43,049 --> 00:31:43,549
+[SPEAKER_00]: Good hitter.
+
+651
+00:31:45,750 --> 00:31:47,590
+[SPEAKER_01]: Throw many of these brushback pitches?
+
+652
+00:31:47,730 --> 00:31:48,470
+[SPEAKER_00]: Oh, yeah.
+
+653
+00:31:48,971 --> 00:31:49,591
+[SPEAKER_00]: We had that.
+
+654
+00:31:50,091 --> 00:31:51,451
+[SPEAKER_00]: You get orders to do that?
+
+655
+00:31:52,051 --> 00:31:52,972
+[SPEAKER_00]: What's the signal again?
+
+656
+00:31:53,932 --> 00:31:56,393
+[SPEAKER_00]: 2, 3, and then 3 and 3.
+
+657
+00:31:56,513 --> 00:31:59,093
+[SPEAKER_00]: Then our fastball was 2 and 1.
+
+658
+00:31:59,173 --> 00:32:00,614
+[SPEAKER_00]: Yeah, different, you know.
+
+659
+00:32:00,634 --> 00:32:04,815
+[SPEAKER_00]: Then you go on your knees or something like that to be the second sign.
+
+660
+00:32:06,150 --> 00:32:07,951
+[SPEAKER_00]: They'd go through all that in the spring training.
+
+661
+00:32:09,611 --> 00:32:13,292
+[SPEAKER_00]: And a lot of times they'd get a man on second base, they'd change, you know.
+
+662
+00:32:15,193 --> 00:32:17,594
+[SPEAKER_00]: Of course, the shortstop would be relaying it.
+
+663
+00:32:18,714 --> 00:32:25,397
+[SPEAKER_00]: He gets back up here with his hand, open or packed, and then the center fielder gets an idea of what's thrown too.
+
+664
+00:32:26,857 --> 00:32:34,720
+[SPEAKER_00]: Now, whether they do all that now or not, but they used to relay some fun signs of the shortstop, shortstop relay, the second baseman relays it on.
+
+665
+00:32:36,018 --> 00:32:38,340
+[SPEAKER_00]: Well, you get a different break on the ball, too, if you like.
+
+666
+00:32:44,705 --> 00:32:48,428
+[SPEAKER_01]: Well, the manager called the brushback pitch.
+
+667
+00:32:48,628 --> 00:32:50,730
+[SPEAKER_01]: Did the manager order you to throw that pitch?
+
+668
+00:32:50,830 --> 00:32:51,231
+[SPEAKER_01]: Oh, yeah.
+
+669
+00:32:51,511 --> 00:32:52,051
+[SPEAKER_01]: Or did you just?
+
+670
+00:32:52,412 --> 00:33:00,098
+[SPEAKER_00]: Yeah, I remember one time he had a pitch against the athletics in Detroit.
+
+671
+00:33:00,398 --> 00:33:01,439
+[SPEAKER_00]: Jimmy Dykes was hitting.
+
+672
+00:33:03,020 --> 00:33:04,762
+[SPEAKER_00]: Tom was playing in the center field.
+
+673
+00:33:06,672 --> 00:33:10,614
+[SPEAKER_00]: And I forget who was coaching on third base.
+
+674
+00:33:12,274 --> 00:33:16,276
+[SPEAKER_00]: Anyway, he gave me... We played Dykes.
+
+675
+00:33:16,316 --> 00:33:16,876
+[SPEAKER_00]: Curveball.
+
+676
+00:33:17,036 --> 00:33:18,837
+[SPEAKER_00]: I was about to throw a curveball.
+
+677
+00:33:19,097 --> 00:33:19,597
+[SPEAKER_00]: It didn't hurt.
+
+678
+00:33:19,617 --> 00:33:21,158
+[SPEAKER_01]: He signaled you to throw the curve?
+
+679
+00:33:21,198 --> 00:33:21,538
+[SPEAKER_00]: No.
+
+680
+00:33:21,878 --> 00:33:23,099
+[SPEAKER_00]: He signaled the coach?
+
+681
+00:33:23,259 --> 00:33:24,819
+[SPEAKER_00]: The coach signaled Jimmy Dykes.
+
+682
+00:33:26,160 --> 00:33:29,721
+[SPEAKER_00]: He was coaching more of the athletics.
+
+683
+00:33:30,262 --> 00:33:31,282
+[SPEAKER_00]: And he had tipped him off.
+
+684
+00:33:31,322 --> 00:33:32,102
+[SPEAKER_00]: I found that out later.
+
+685
+00:33:32,122 --> 00:33:33,723
+[SPEAKER_00]: He tipped him off with a curveball.
+
+686
+00:33:34,500 --> 00:33:35,981
+[SPEAKER_00]: Probably got a flash from the catcher.
+
+687
+00:33:37,842 --> 00:33:38,723
+[SPEAKER_00]: But it didn't curve.
+
+688
+00:33:39,023 --> 00:33:41,104
+[SPEAKER_00]: He stepped into it and hit him right in the back of the ear.
+
+689
+00:33:41,785 --> 00:33:46,408
+[SPEAKER_00]: And he just went over like that.
+
+690
+00:33:46,548 --> 00:33:48,389
+[SPEAKER_00]: Blood coming out of his nose.
+
+691
+00:33:48,429 --> 00:33:50,790
+[SPEAKER_00]: Boy, that scared the heck out of me.
+
+692
+00:33:50,830 --> 00:33:51,611
+[SPEAKER_00]: I didn't want to hit him.
+
+693
+00:33:51,671 --> 00:33:52,691
+[SPEAKER_00]: I wanted to brush him back.
+
+694
+00:33:52,711 --> 00:33:53,692
+[SPEAKER_00]: But he stepped into it.
+
+695
+00:33:54,953 --> 00:33:56,554
+[SPEAKER_00]: Like a curveball, he stepped into it.
+
+696
+00:33:57,474 --> 00:33:59,876
+[SPEAKER_00]: But he stepped into a fast one, and that was pretty fast.
+
+697
+00:34:03,850 --> 00:34:06,412
+[SPEAKER_01]: Did that upset you for pitching after that?
+
+698
+00:34:06,532 --> 00:34:06,733
+[SPEAKER_00]: No.
+
+699
+00:34:06,773 --> 00:34:11,777
+[SPEAKER_00]: The cop erased him because I hit him in the head with a duster.
+
+700
+00:34:11,797 --> 00:34:12,958
+[SPEAKER_00]: What was I going to do?
+
+701
+00:34:14,159 --> 00:34:20,825
+[SPEAKER_00]: The only fine I ever got in my life was $10 from him for not coming close enough to a hitter.
+
+702
+00:34:22,106 --> 00:34:24,769
+[SPEAKER_00]: $10 for all the years I played ball.
+
+703
+00:34:24,789 --> 00:34:25,890
+[SPEAKER_00]: That's the only time I ever got.
+
+704
+00:34:27,551 --> 00:34:28,592
+[SPEAKER_01]: And it made it stick, too.
+
+705
+00:34:31,250 --> 00:34:34,831
+[SPEAKER_00]: Oh, did he come in from center field much and consult with you?
+
+706
+00:34:34,931 --> 00:34:35,171
+[SPEAKER_00]: No.
+
+707
+00:34:35,331 --> 00:34:36,611
+[SPEAKER_00]: Not too, no.
+
+708
+00:34:36,651 --> 00:34:39,952
+[SPEAKER_01]: That's how you manage from way out in center field.
+
+709
+00:34:39,972 --> 00:34:42,612
+[SPEAKER_00]: It's kind of tricky.
+
+710
+00:34:42,632 --> 00:34:43,532
+[SPEAKER_00]: Well, he'd look around.
+
+711
+00:34:43,572 --> 00:34:44,173
+[SPEAKER_00]: He'd look around.
+
+712
+00:34:44,193 --> 00:34:47,393
+[SPEAKER_01]: He had a knockdown sign or something like that.
+
+713
+00:34:47,413 --> 00:34:49,694
+[SPEAKER_01]: He'd reach down and get a plate of grass and put it in his mouth.
+
+714
+00:34:50,214 --> 00:34:52,054
+[SPEAKER_00]: I'd have to turn around and look and see him do that.
+
+715
+00:34:52,914 --> 00:34:54,374
+[SPEAKER_00]: Sure enough, here's Bassler with a...
+
+716
+00:34:56,115 --> 00:34:56,415
+[SPEAKER_01]: I see.
+
+717
+00:35:02,679 --> 00:35:11,741
+[SPEAKER_00]: Yeah, the boy was looking last night to get a picture of the 1926 Carlo team.
+
+718
+00:35:11,781 --> 00:35:20,723
+[SPEAKER_00]: Well, I was just looking for a picture of the 1926 team.
+
+719
+00:35:21,203 --> 00:35:22,283
+[SPEAKER_01]: Jess Haines.
+
+720
+00:35:22,603 --> 00:35:24,603
+[SPEAKER_01]: Jess Haines doesn't live far from us.
+
+721
+00:35:24,683 --> 00:35:25,844
+[SPEAKER_01]: We were over visiting him.
+
+722
+00:35:26,664 --> 00:35:29,985
+[SPEAKER_01]: He's got a couple of those big team pictures up in his little den there.
+
+723
+00:35:30,005 --> 00:35:31,905
+[SPEAKER_00]: Oh, he's got the same one of the 1926 team.
+
+724
+00:35:33,243 --> 00:35:37,486
+[SPEAKER_00]: 31, then 30, 28.
+
+725
+00:35:37,546 --> 00:35:42,250
+[SPEAKER_00]: Yeah, 26 was the big one for Jess, too.
+
+726
+00:35:43,571 --> 00:35:46,513
+[SPEAKER_00]: He pitched against the Yankees in that series.
+
+727
+00:35:47,293 --> 00:35:50,396
+[SPEAKER_00]: They say his damn knuckles were bleeding, you know.
+
+728
+00:35:50,436 --> 00:35:52,417
+[SPEAKER_00]: But a knuckleball pitcher, Jess was, too.
+
+729
+00:35:55,940 --> 00:35:57,741
+[SPEAKER_01]: Did you get to know Alexander very well?
+
+730
+00:35:57,841 --> 00:35:58,502
+[SPEAKER_01]: Oh, yeah.
+
+731
+00:36:01,627 --> 00:36:04,649
+[SPEAKER_01]: Did he take such poor care of himself, as they say?
+
+732
+00:36:06,229 --> 00:36:18,156
+[SPEAKER_00]: Well, a lot of times, you know, you pick up the paper, you see that they find Alexander in the gutter or some darn place, you know.
+
+733
+00:36:19,096 --> 00:36:20,497
+[SPEAKER_00]: Well, he's subject to epileptic.
+
+734
+00:36:22,498 --> 00:36:26,440
+[SPEAKER_00]: See, you get one of these damn fits, and away he goes.
+
+735
+00:36:26,500 --> 00:36:30,182
+[SPEAKER_00]: Of course, Alex would drink, too, but most of the time,
+
+736
+00:36:30,989 --> 00:36:34,231
+[SPEAKER_00]: I remember one time in Cincinnati, we were getting ready to go to the ballpark.
+
+737
+00:36:35,692 --> 00:36:37,013
+[SPEAKER_00]: That's where the car goes.
+
+738
+00:36:37,513 --> 00:36:40,735
+[SPEAKER_00]: And he had his straw hats on, you know.
+
+739
+00:36:40,755 --> 00:36:45,558
+[SPEAKER_00]: We were sitting in the lobby there, sitting in the hotel.
+
+740
+00:36:45,618 --> 00:36:46,879
+[SPEAKER_00]: All of a sudden, Pete gets up.
+
+741
+00:36:48,140 --> 00:36:50,601
+[SPEAKER_00]: And he just stares around, and down he goes.
+
+742
+00:36:51,522 --> 00:36:53,483
+[SPEAKER_00]: So we all run over and got a hold of him.
+
+743
+00:36:54,784 --> 00:36:56,785
+[SPEAKER_00]: So he come in one of those epileptics.
+
+744
+00:36:57,445 --> 00:36:59,887
+[SPEAKER_00]: And then he come in and got in the
+
+745
+00:37:01,277 --> 00:37:15,288
+[SPEAKER_00]: Then I went up in Philadelphia, got into one of those downy goes, and a whole ball club went around, circled around him.
+
+746
+00:37:16,309 --> 00:37:24,836
+[SPEAKER_00]: Trader, Doc Weaver, they'd come out and, gee, they got ahold of his tongue, you know, said, let's swallow his tongue.
+
+747
+00:37:24,876 --> 00:37:27,718
+[SPEAKER_00]: He started on his windup, you know, wind it up like that.
+
+748
+00:37:27,758 --> 00:37:28,779
+[SPEAKER_00]: Don Hurst was the hitter.
+
+749
+00:37:30,313 --> 00:37:33,514
+[SPEAKER_00]: If he didn't let that ball go, Don was dumbfounded.
+
+750
+00:37:33,534 --> 00:37:34,814
+[SPEAKER_00]: He went over for strikes.
+
+751
+00:37:35,795 --> 00:37:36,955
+[SPEAKER_00]: And here Pete went down.
+
+752
+00:37:39,015 --> 00:37:40,416
+[SPEAKER_00]: So then they helped him with the clubhouse.
+
+753
+00:37:40,436 --> 00:37:42,276
+[SPEAKER_00]: He was done for the day.
+
+754
+00:37:42,316 --> 00:37:43,937
+[SPEAKER_00]: You mean he had a seizure right in the mound?
+
+755
+00:37:43,977 --> 00:37:46,417
+[SPEAKER_00]: Yeah.
+
+756
+00:37:49,518 --> 00:37:53,659
+[SPEAKER_01]: So maybe some of these times where he was said to have been drunk, he was just having an attack.
+
+757
+00:37:53,679 --> 00:37:54,239
+[SPEAKER_01]: That's right.
+
+758
+00:37:54,399 --> 00:37:55,939
+[SPEAKER_01]: He did drink, but maybe not as much.
+
+759
+00:37:58,980 --> 00:38:04,001
+[SPEAKER_00]: But the rest of us, we would go to a little bit overboard once in a while.
+
+760
+00:38:04,021 --> 00:38:06,322
+[SPEAKER_00]: I thought it was Prohibition where you couldn't get any booze.
+
+761
+00:38:06,342 --> 00:38:06,842
+[SPEAKER_00]: Yeah, yeah.
+
+762
+00:38:07,882 --> 00:38:09,643
+[SPEAKER_01]: Where'd you go to get it during Prohibition?
+
+763
+00:38:11,123 --> 00:38:14,344
+[SPEAKER_00]: Well, you could get it almost anyplace, speakeasies, you know, in New York.
+
+764
+00:38:18,745 --> 00:38:23,146
+[SPEAKER_00]: You could write a book.
+
+765
+00:38:30,123 --> 00:38:34,848
+[SPEAKER_00]: Yeah, I'd do it all over again, but I'd make a few different pitches, of course.
+
+766
+00:38:37,390 --> 00:38:38,951
+[SPEAKER_00]: Had you pitched Eddie Roush at all?
+
+767
+00:38:40,012 --> 00:38:44,577
+[SPEAKER_00]: I guess he was a left-hand hitter, a pretty good one.
+
+768
+00:38:45,658 --> 00:38:48,000
+[SPEAKER_00]: Yeah, Cincinnati.
+
+769
+00:38:49,942 --> 00:38:52,124
+[SPEAKER_01]: He's the chap who didn't like spring training.
+
+770
+00:38:53,005 --> 00:38:54,426
+[SPEAKER_01]: Did you ever hold out any yourself?
+
+771
+00:38:56,244 --> 00:39:00,207
+[SPEAKER_00]: In the years of St. Louis, Jimmy Wilson would catch them most of the time.
+
+772
+00:39:00,227 --> 00:39:01,628
+[SPEAKER_00]: They're great catchers.
+
+773
+00:39:05,571 --> 00:39:06,272
+[SPEAKER_00]: Quite a catcher.
+
+774
+00:39:06,332 --> 00:39:07,993
+[SPEAKER_01]: Is he your favorite?
+
+775
+00:39:09,214 --> 00:39:09,614
+[SPEAKER_00]: One of them.
+
+776
+00:39:09,995 --> 00:39:11,496
+[SPEAKER_01]: You have favorite catchers, I mean.
+
+777
+00:39:11,576 --> 00:39:13,657
+[SPEAKER_01]: Are there those you can work better with than others?
+
+778
+00:39:13,757 --> 00:39:16,339
+[SPEAKER_00]: I work good with Jimmy, Jimmy Wilson.
+
+779
+00:39:18,441 --> 00:39:23,625
+[SPEAKER_01]: You learn to understand each other, what's the best pitches?
+
+780
+00:39:24,964 --> 00:39:26,365
+[SPEAKER_01]: Did you ever shake him off much?
+
+781
+00:39:26,725 --> 00:39:27,346
+[SPEAKER_00]: Not too much.
+
+782
+00:39:27,926 --> 00:39:32,889
+[SPEAKER_00]: I'd shake off him, but I'd come right back the same way.
+
+783
+00:39:33,870 --> 00:39:37,372
+[SPEAKER_00]: You might give me a curveball, and I'd raise your nose like that, and come right back with a curve.
+
+784
+00:39:37,632 --> 00:39:38,493
+[SPEAKER_01]: Oh, I see.
+
+785
+00:39:38,993 --> 00:39:39,573
+[SPEAKER_00]: Pretty tricky.
+
+786
+00:39:39,873 --> 00:39:46,578
+[SPEAKER_00]: But if you're hitting up there, just for a second, you might wonder, what the hell is he going to throw me?
+
+787
+00:39:49,880 --> 00:39:50,820
+[SPEAKER_01]: How was your spitball?
+
+788
+00:39:51,541 --> 00:39:51,841
+[SPEAKER_00]: No.
+
+789
+00:39:52,161 --> 00:39:54,643
+[SPEAKER_00]: Well, I can throw at every ball.
+
+790
+00:39:55,328 --> 00:39:55,648
+[SPEAKER_00]: Did you?
+
+791
+00:39:56,169 --> 00:39:58,010
+[SPEAKER_00]: I could, I say, because it was outlawed.
+
+792
+00:39:58,190 --> 00:39:58,791
+[SPEAKER_00]: I know it was.
+
+793
+00:40:00,252 --> 00:40:11,622
+[SPEAKER_00]: You see, when we left Portland in 1921, Walter McQueen, he registered all of us, spitballs, spitballs.
+
+794
+00:40:13,183 --> 00:40:14,324
+[SPEAKER_00]: So we were eligible then.
+
+795
+00:40:15,385 --> 00:40:16,666
+[SPEAKER_01]: Even though you'd been in the minors?
+
+796
+00:40:17,306 --> 00:40:21,050
+[SPEAKER_00]: Well, I don't know about the major leagues, but we were eligible in the Coast League.
+
+797
+00:40:21,130 --> 00:40:21,470
+[SPEAKER_00]: Oh, I see.
+
+798
+00:40:23,203 --> 00:40:29,725
+[SPEAKER_00]: But they had spitballers up there, Shocker, and Iron Spitzel, and who was the great one over?
+
+799
+00:40:29,765 --> 00:40:30,526
+[SPEAKER_00]: Burleigh Grimes.
+
+800
+00:40:30,546 --> 00:40:31,526
+[SPEAKER_00]: Burleigh Grimes.
+
+801
+00:40:31,546 --> 00:40:32,206
+[SPEAKER_01]: Kovaleski.
+
+802
+00:40:32,546 --> 00:40:34,447
+[SPEAKER_00]: Kovaleski and who was it?
+
+803
+00:40:34,467 --> 00:40:35,327
+[SPEAKER_01]: Jack Quinn.
+
+804
+00:40:35,427 --> 00:40:35,968
+[SPEAKER_00]: Yeah.
+
+805
+00:40:36,328 --> 00:40:37,908
+[SPEAKER_00]: There were quite a few of them.
+
+806
+00:40:38,969 --> 00:40:45,871
+[SPEAKER_00]: And they had quite a few of them that could throw that good little rough spot on the ball, you know, and do tricks with it.
+
+807
+00:40:46,411 --> 00:40:48,472
+[SPEAKER_01]: You said you could throw the Emory ball.
+
+808
+00:40:48,892 --> 00:40:50,653
+[SPEAKER_01]: How would you get it scuffed?
+
+809
+00:40:51,427 --> 00:40:55,089
+[SPEAKER_00]: Well, a lot of times it would hit the ground or something, you know, and put a scuff on it.
+
+810
+00:40:56,009 --> 00:40:59,371
+[SPEAKER_00]: A lot of times now, if it hits the ground, how far do I want to see the ball?
+
+811
+00:41:00,491 --> 00:41:02,112
+[SPEAKER_01]: Yeah, they go through a lot of them now.
+
+812
+00:41:04,153 --> 00:41:15,238
+[SPEAKER_00]: But I guess the original Emory ball had a... Well, it used to have a spot on the belt, a little piece of Emory paper, and they could just... Well, that's before my time, too.
+
+813
+00:41:16,939 --> 00:41:17,519
+[SPEAKER_00]: Did you know it?
+
+814
+00:41:17,539 --> 00:41:19,620
+[SPEAKER_00]: That red paper, it wasn't a great...
+
+815
+00:41:22,103 --> 00:41:24,245
+[SPEAKER_00]: Clarence Mitchell, he could left-hand a spitter.
+
+816
+00:41:25,145 --> 00:41:26,446
+[SPEAKER_00]: He'd really slobber off.
+
+817
+00:41:27,467 --> 00:41:36,173
+[SPEAKER_00]: He'd hit him down a pepper martin, you know, hit the ground ball down a pepper, get ahold of that ball, and probably get ahold of that spit, and the way, the damn thing would go way up into the bleachers.
+
+818
+00:41:39,815 --> 00:41:49,762
+[SPEAKER_00]: I thought the infielders got good dirt in their hands before that ball was thrown, so they could... Oh, I used to spit in my hat and rub it like that, but I... That wasn't frowned upon?
+
+819
+00:41:51,223 --> 00:41:57,128
+[SPEAKER_00]: Towards the last, I'd throw a few screwballs, too, you know, to get her with my fastball.
+
+820
+00:41:57,148 --> 00:41:58,710
+[SPEAKER_00]: That's the reverse curve?
+
+821
+00:41:58,730 --> 00:41:59,450
+[SPEAKER_00]: Yeah, reverse, too.
+
+822
+00:41:59,851 --> 00:42:01,752
+[SPEAKER_01]: Isn't that kind of hard on your elbow or something?
+
+823
+00:42:02,293 --> 00:42:02,653
+[SPEAKER_00]: No.
+
+824
+00:42:02,833 --> 00:42:03,794
+[SPEAKER_00]: Not a natural.
+
+825
+00:42:03,874 --> 00:42:06,657
+[SPEAKER_00]: You see, there's a certain way you can hold that ball and make it dip, too.
+
+826
+00:42:08,318 --> 00:42:11,121
+[SPEAKER_00]: If you hold it cross-seam, that's the way it is.
+
+827
+00:42:11,141 --> 00:42:16,225
+[SPEAKER_00]: See, I'd hold it wide cross-seam and go like that in the bowl and catch these four seams going around.
+
+828
+00:42:16,245 --> 00:42:18,167
+[SPEAKER_00]: A lot of spin on it, see, and it'd take off a little.
+
+829
+00:42:19,320 --> 00:42:25,344
+[SPEAKER_00]: But if you throw it this way with just a little dip and hold on to the end of the seam, it's following two seams.
+
+830
+00:42:26,385 --> 00:42:28,386
+[SPEAKER_00]: You don't get that resistance, so you dip.
+
+831
+00:42:30,308 --> 00:42:31,188
+[SPEAKER_00]: You get a dip on it.
+
+832
+00:42:34,751 --> 00:42:40,035
+[SPEAKER_00]: I used to throw a lot of that to Mel Ott with the Giants.
+
+833
+00:42:41,996 --> 00:42:42,877
+[SPEAKER_01]: He was a tough one.
+
+834
+00:42:43,117 --> 00:42:43,477
+[SPEAKER_00]: Oh, yeah.
+
+835
+00:42:46,989 --> 00:42:49,830
+[SPEAKER_00]: And then the big first baseman, what the heck was his name again?
+
+836
+00:42:50,330 --> 00:42:50,771
+[SPEAKER_00]: The Giants?
+
+837
+00:42:51,711 --> 00:42:52,251
+[SPEAKER_01]: Yeah.
+
+838
+00:42:52,271 --> 00:42:52,871
+[SPEAKER_00]: Bill Terry.
+
+839
+00:42:53,252 --> 00:42:54,312
+[SPEAKER_00]: Bill Terry, yeah.
+
+840
+00:42:54,332 --> 00:42:56,173
+[SPEAKER_00]: That Jackson, the Terry Minstrelman.
+
+841
+00:42:57,373 --> 00:42:58,654
+[SPEAKER_00]: They had quite a ball club, too.
+
+842
+00:42:58,674 --> 00:43:01,055
+[SPEAKER_01]: Yeah.
+
+843
+00:43:01,075 --> 00:43:03,216
+[SPEAKER_01]: Well, they won a couple of pennants for that team.
+
+844
+00:43:04,536 --> 00:43:09,018
+[SPEAKER_01]: Did you play some night baseball?
+
+845
+00:43:09,038 --> 00:43:12,799
+[SPEAKER_01]: I mean, how'd you like pitching under the lights?
+
+846
+00:43:12,839 --> 00:43:13,060
+[SPEAKER_01]: Well.
+
+847
+00:43:14,360 --> 00:43:16,321
+[SPEAKER_00]: I guess the lights were very bright at first, were they?
+
+848
+00:43:17,872 --> 00:43:19,433
+[SPEAKER_00]: Our club was in the first night game.
+
+849
+00:43:19,933 --> 00:43:20,433
+[SPEAKER_00]: That's right.
+
+850
+00:43:20,553 --> 00:43:20,933
+[SPEAKER_00]: In Cincinnati.
+
+851
+00:43:20,953 --> 00:43:22,234
+[SPEAKER_00]: Do you remember that?
+
+852
+00:43:22,374 --> 00:43:23,134
+[SPEAKER_00]: In Philadelphia.
+
+853
+00:43:24,775 --> 00:43:26,696
+[SPEAKER_00]: Lou Chiazzi got the first hit, I guess.
+
+854
+00:43:27,996 --> 00:43:28,236
+[SPEAKER_00]: Lou?
+
+855
+00:43:28,976 --> 00:43:32,238
+[SPEAKER_00]: I don't remember, but I know I always hit a lot of funnels.
+
+856
+00:43:32,258 --> 00:43:37,039
+[SPEAKER_00]: I tried to hit one up by the lights, but I couldn't do it.
+
+857
+00:43:37,059 --> 00:43:38,260
+[SPEAKER_00]: Must have been quite an experience.
+
+858
+00:43:39,007 --> 00:43:44,608
+[SPEAKER_00]: And then it started a little bit, you know, and then they come up with that yellow baseball.
+
+859
+00:43:44,748 --> 00:43:46,369
+[SPEAKER_00]: I used to have two or three of them.
+
+860
+00:43:46,389 --> 00:43:47,709
+[SPEAKER_01]: Freddie Fitzsimmons has one.
+
+861
+00:43:48,069 --> 00:43:49,629
+[SPEAKER_00]: Whatever happened to them, I don't know.
+
+862
+00:43:49,669 --> 00:43:50,209
+[SPEAKER_00]: They were yellow.
+
+863
+00:43:50,329 --> 00:43:50,629
+[SPEAKER_01]: Yeah.
+
+864
+00:43:50,870 --> 00:43:53,070
+[SPEAKER_00]: They were supposed to be seen better at night.
+
+865
+00:43:54,410 --> 00:43:56,811
+[SPEAKER_00]: I'd forgotten about that, but he's got one on his mantelpiece.
+
+866
+00:44:02,872 --> 00:44:04,172
+[SPEAKER_00]: How'd you get a lot of the umpires?
+
+867
+00:44:04,652 --> 00:44:04,953
+[SPEAKER_00]: Good.
+
+868
+00:44:05,573 --> 00:44:05,853
+[SPEAKER_00]: Good.
+
+869
+00:44:07,613 --> 00:44:09,634
+[SPEAKER_00]: I'm a nice fleeing umpire.
+
+870
+00:44:10,154 --> 00:44:11,134
+[SPEAKER_00]: I was in Cincinnati.
+
+871
+00:44:13,575 --> 00:44:17,556
+[SPEAKER_00]: And who was it coming down?
+
+872
+00:44:18,457 --> 00:44:19,177
+[SPEAKER_00]: Philadelphia.
+
+873
+00:44:19,777 --> 00:44:20,417
+[SPEAKER_00]: That's where it was.
+
+874
+00:44:20,437 --> 00:44:21,158
+[SPEAKER_00]: Philadelphia.
+
+875
+00:44:22,898 --> 00:44:23,999
+[SPEAKER_00]: That's where Jimmy Wilson was.
+
+876
+00:44:24,019 --> 00:44:25,079
+[SPEAKER_00]: Now he's in Philadelphia.
+
+877
+00:44:25,119 --> 00:44:28,100
+[SPEAKER_00]: He left the Cardinals and went over to Philadelphia.
+
+878
+00:44:28,280 --> 00:44:29,040
+[SPEAKER_00]: You can see that.
+
+879
+00:44:30,661 --> 00:44:34,302
+[SPEAKER_00]: And anyway, they come into town.
+
+880
+00:44:39,523 --> 00:44:41,825
+[SPEAKER_00]: I forget who was coaching first, third base.
+
+881
+00:44:43,726 --> 00:44:50,331
+[SPEAKER_00]: But anyway, the first ball pitch in the ball game was a foul tip and hit Quigley right on the Adam's apple, I think.
+
+882
+00:44:50,391 --> 00:44:52,652
+[SPEAKER_00]: Only at that time they had two umpires.
+
+883
+00:44:53,793 --> 00:44:56,195
+[SPEAKER_00]: Charlie Moran and Quigley were the two umpires.
+
+884
+00:44:57,156 --> 00:44:59,077
+[SPEAKER_00]: And he couldn't, boy, they had to take him to the hospital.
+
+885
+00:44:59,097 --> 00:45:02,159
+[SPEAKER_00]: He couldn't, boy, you know, get a foul tip right by him.
+
+886
+00:45:03,480 --> 00:45:06,222
+[SPEAKER_00]: But anyway, Charlie came over to the dugout then.
+
+887
+00:45:07,740 --> 00:45:13,944
+[SPEAKER_00]: And, I don't know, he was one of the boys to umpire.
+
+888
+00:45:15,264 --> 00:45:19,587
+[SPEAKER_00]: So, Bob said, sure, ask Larry Benton first.
+
+889
+00:45:20,688 --> 00:45:21,228
+[SPEAKER_00]: He said, no.
+
+890
+00:45:22,268 --> 00:45:24,149
+[SPEAKER_00]: He said, how about Sill down the end of the bench?
+
+891
+00:45:24,210 --> 00:45:29,653
+[SPEAKER_00]: Bob said, OK. Charlie Moran said, you go to first base umpire the first five innings.
+
+892
+00:45:31,093 --> 00:45:33,515
+[SPEAKER_00]: And I forget the coach was Brooklyn.
+
+893
+00:45:34,295 --> 00:45:35,216
+[SPEAKER_00]: Brooklyn, who it was.
+
+894
+00:45:37,919 --> 00:45:40,460
+[SPEAKER_00]: And one of his players upfired third base.
+
+895
+00:45:41,541 --> 00:45:44,282
+[SPEAKER_00]: So I said, well, the four innings is still coming over, see?
+
+896
+00:45:45,543 --> 00:45:49,765
+[SPEAKER_00]: So five innings of the first five innings, I had two or three plays just like that.
+
+897
+00:45:49,865 --> 00:45:52,486
+[SPEAKER_00]: And then we went up against Cincinnati on home ground.
+
+898
+00:45:53,526 --> 00:45:55,727
+[SPEAKER_00]: So when the five innings was over, I started walking around.
+
+899
+00:45:55,787 --> 00:45:58,269
+[SPEAKER_00]: And Charlie Ryan says, where are you going?
+
+900
+00:45:58,289 --> 00:45:59,229
+[SPEAKER_00]: He said, five innings.
+
+901
+00:45:59,629 --> 00:46:01,750
+[SPEAKER_00]: So I go back to first base.
+
+902
+00:46:03,791 --> 00:46:05,052
+[SPEAKER_00]: See, those close plays, see?
+
+903
+00:46:06,519 --> 00:46:15,206
+[SPEAKER_00]: Well, anyway, two weeks later here I got a check for 25 bucks.
+
+904
+00:46:15,306 --> 00:46:17,768
+[SPEAKER_00]: National League for umpires.
+
+905
+00:46:17,788 --> 00:46:22,471
+[SPEAKER_01]: So I was a National League umpire for one game.
+
+906
+00:46:23,512 --> 00:46:25,033
+[SPEAKER_01]: They just picked you at random, huh?
+
+907
+00:46:25,214 --> 00:46:25,514
+[SPEAKER_00]: Yeah.
+
+908
+00:46:27,535 --> 00:46:28,576
+[SPEAKER_01]: That's a pretty good choice.
+
+909
+00:46:28,616 --> 00:46:34,741
+[SPEAKER_01]: They must have respected your... Well, when I was with Seattle at the end, I was coaching, you know.
+
+910
+00:46:35,846 --> 00:46:45,513
+[SPEAKER_00]: Spring training, I'd do most of the umpire for the interleague, inter-squad games, to see what the pitchers they got, too, you know.
+
+911
+00:46:46,894 --> 00:46:48,675
+[SPEAKER_00]: Bill Skiff was our manager.
+
+912
+00:46:48,695 --> 00:46:50,236
+[SPEAKER_00]: Was Freddie Hutchinson out there yet?
+
+913
+00:46:50,336 --> 00:46:52,398
+[SPEAKER_00]: No, Freddie was just before, after Freddie.
+
+914
+00:46:52,438 --> 00:46:52,618
+[SPEAKER_00]: Yeah.
+
+915
+00:46:52,638 --> 00:46:55,059
+[SPEAKER_00]: There's quite a pitcher out here, Freddie.
+
+916
+00:46:55,079 --> 00:46:55,280
+Uh-huh.
+
+917
+00:47:04,181 --> 00:47:09,123
+[SPEAKER_00]: How about Ad Liska?
+
+918
+00:47:09,764 --> 00:47:13,165
+[SPEAKER_00]: He's a Portlander.
+
+919
+00:47:13,205 --> 00:47:14,786
+[SPEAKER_00]: He lives out here, doesn't he?
+
+920
+00:47:15,026 --> 00:47:15,326
+[SPEAKER_00]: Yeah.
+
+921
+00:47:15,346 --> 00:47:16,867
+[SPEAKER_00]: He's a sign armer.
+
+922
+00:47:16,887 --> 00:47:17,847
+[SPEAKER_00]: Got his second stuff.
+
+923
+00:47:19,488 --> 00:47:20,089
+[SPEAKER_00]: Good pitcher.
+
+924
+00:47:21,489 --> 00:47:22,810
+[SPEAKER_00]: Didn't go to major leagues much.
+
+925
+00:47:22,850 --> 00:47:24,871
+[SPEAKER_00]: I don't think he's up there just to get some heavy butter.
+
+926
+00:47:24,931 --> 00:47:25,571
+[SPEAKER_00]: I got his record here.
+
+927
+00:47:25,611 --> 00:47:27,372
+[SPEAKER_00]: Just five years.
+
+928
+00:47:28,186 --> 00:47:29,367
+[SPEAKER_00]: Was he up there that long, was he?
+
+929
+00:47:29,447 --> 00:47:30,669
+[SPEAKER_00]: Was it Washington, was it?
+
+930
+00:47:31,069 --> 00:47:33,772
+[SPEAKER_01]: Yeah, and he only won 17 and lost 18.
+
+931
+00:47:34,553 --> 00:47:37,336
+[SPEAKER_01]: So he had quite a Coast League record, though, didn't he?
+
+932
+00:47:37,376 --> 00:47:38,156
+[SPEAKER_00]: Oh, yeah.
+
+933
+00:47:38,176 --> 00:47:38,497
+[SPEAKER_00]: Yeah.
+
+934
+00:47:42,681 --> 00:47:45,524
+[SPEAKER_00]: Well, my record's just a little over 500.
+
+935
+00:47:45,584 --> 00:47:49,428
+[SPEAKER_00]: So I got an awful lot of relief for it.
+
+936
+00:47:49,709 --> 00:47:50,469
+[SPEAKER_00]: I noticed that.
+
+937
+00:47:53,117 --> 00:47:54,978
+[SPEAKER_00]: I think it was somewhere around 101 and 104 or something like that.
+
+938
+00:47:55,018 --> 00:47:55,378
+[SPEAKER_00]: 112 and 117.
+
+939
+00:47:55,398 --> 00:47:55,598
+[SPEAKER_00]: 112, 117?
+
+940
+00:47:55,718 --> 00:47:56,078
+[SPEAKER_00]: 112 and 117.
+
+941
+00:47:56,098 --> 00:47:56,278
+[SPEAKER_00]: 112, 117?
+
+942
+00:47:56,298 --> 00:47:56,738
+[SPEAKER_00]: 112 and 117.
+
+943
+00:47:56,758 --> 00:47:57,918
+[SPEAKER_00]: Yeah, I thought it was pretty close.
+
+944
+00:47:57,938 --> 00:47:58,799
+[SPEAKER_01]: 2,165 innings.
+
+945
+00:47:58,819 --> 00:47:59,499
+[SPEAKER_00]: Quite a few.
+
+946
+00:48:17,107 --> 00:48:18,929
+[SPEAKER_00]: for so much relief work, too, you know.
+
+947
+00:48:19,049 --> 00:48:22,071
+[SPEAKER_00]: That's at a time when relief pitching just wasn't done very well.
+
+948
+00:48:22,091 --> 00:48:23,352
+[SPEAKER_00]: They didn't have any real specialists.
+
+949
+00:48:23,372 --> 00:48:23,673
+[SPEAKER_00]: No, no, no.
+
+950
+00:48:23,693 --> 00:48:27,235
+[SPEAKER_01]: You may have been one of the first ones to really.
+
+951
+00:48:28,476 --> 00:48:31,439
+[SPEAKER_00]: Jim Lindsay and I were with the Cardinals.
+
+952
+00:48:31,459 --> 00:48:34,461
+[SPEAKER_00]: First part of the ball game, we'd get behind.
+
+953
+00:48:34,501 --> 00:48:36,883
+[SPEAKER_00]: Jim would take over, see if they'd start hitting the pitcher.
+
+954
+00:48:36,903 --> 00:48:39,165
+[SPEAKER_00]: That last part of the ball game, we'd get close.
+
+955
+00:48:40,746 --> 00:48:42,548
+[SPEAKER_00]: Or one runner behind or one run ahead.
+
+956
+00:48:43,898 --> 00:48:46,159
+[SPEAKER_01]: take the pitcher off for a hitter, then I'd have to go in.
+
+957
+00:48:46,179 --> 00:48:47,279
+[SPEAKER_01]: Whose idea was this?
+
+958
+00:48:47,960 --> 00:48:48,980
+[SPEAKER_01]: Self-management.
+
+959
+00:48:49,000 --> 00:48:51,021
+[SPEAKER_00]: Gabby Street was one of the starters.
+
+960
+00:48:51,821 --> 00:48:57,103
+[SPEAKER_01]: It's really a new thing in baseball, bringing in your pitchers that way.
+
+961
+00:48:57,843 --> 00:48:59,944
+[SPEAKER_01]: In the old days, I thought they gave the ball to the pitcher.
+
+962
+00:48:59,964 --> 00:49:02,085
+[SPEAKER_01]: He went out there and stayed out there no matter what happened.
+
+963
+00:49:02,445 --> 00:49:03,125
+[SPEAKER_01]: The whole game.
+
+964
+00:49:06,527 --> 00:49:10,188
+[SPEAKER_01]: Roger Peckinpah once said that Fred Marbury
+
+965
+00:49:10,685 --> 00:49:14,608
+[SPEAKER_01]: But Washington was the first real good relief pitcher that made him think that this was the way.
+
+966
+00:49:14,628 --> 00:49:15,729
+[SPEAKER_00]: Well, wasn't he with Farnbury?
+
+967
+00:49:15,749 --> 00:49:17,410
+[SPEAKER_00]: Wasn't he with Brooklyn?
+
+968
+00:49:17,430 --> 00:49:17,851
+[SPEAKER_00]: Wasn't he?
+
+969
+00:49:18,551 --> 00:49:20,913
+[SPEAKER_00]: No, he was with Washington in the mid-'20s, I think.
+
+970
+00:49:21,213 --> 00:49:22,735
+[SPEAKER_00]: He was quite a relief pitcher, I thought.
+
+971
+00:49:22,755 --> 00:49:24,016
+[SPEAKER_00]: But I thought he was with Brooklyn.
+
+972
+00:49:24,596 --> 00:49:29,700
+[SPEAKER_01]: He may have been later, but I think he tackled Pollock good in Washington.
+
+973
+00:49:29,820 --> 00:49:30,361
+[SPEAKER_00]: Oh, Roger?
+
+974
+00:49:30,721 --> 00:49:31,041
+[SPEAKER_01]: Yeah.
+
+975
+00:49:31,061 --> 00:49:33,023
+[SPEAKER_01]: But Roger's a little bit ahead of me, too, a bit.
+
+976
+00:49:33,383 --> 00:49:35,405
+[SPEAKER_00]: I'd like to add Roger Pollocker.
+
+977
+00:49:36,966 --> 00:49:38,207
+[SPEAKER_00]: He was an old courtman.
+
+978
+00:49:38,696 --> 00:49:47,642
+[SPEAKER_01]: Yeah, I was talking to Louie Guisto down here in Napa and he said Holliker was, went up with him I guess, was on the Portland team.
+
+979
+00:49:47,802 --> 00:49:49,503
+[SPEAKER_01]: Who was that?
+
+980
+00:49:49,603 --> 00:50:00,190
+[SPEAKER_01]: Guisto said that Holliker and Bigby were three of them that came up about the same time.
+
+981
+00:50:00,230 --> 00:50:02,311
+[SPEAKER_01]: Did you ever bat against Walter Johnson?
+
+982
+00:50:02,491 --> 00:50:05,033
+[SPEAKER_00]: Yeah, he hit me right in the left arm once.
+
+983
+00:50:06,538 --> 00:50:07,498
+[SPEAKER_00]: With a curveball, too.
+
+984
+00:50:07,518 --> 00:50:08,959
+[SPEAKER_00]: I'm glad it wasn't the fast one.
+
+985
+00:50:09,899 --> 00:50:11,279
+[SPEAKER_01]: I didn't think he hit anybody.
+
+986
+00:50:11,299 --> 00:50:11,819
+[SPEAKER_01]: Oh, yeah.
+
+987
+00:50:11,860 --> 00:50:13,560
+[SPEAKER_00]: Well, you know what I mean.
+
+988
+00:50:14,940 --> 00:50:17,001
+[SPEAKER_00]: You know, our pitchers are hit sometimes.
+
+989
+00:50:18,041 --> 00:50:19,802
+[SPEAKER_00]: I sat a little bit too close to that plate.
+
+990
+00:50:21,362 --> 00:50:22,062
+[SPEAKER_00]: The curveball.
+
+991
+00:50:23,963 --> 00:50:25,723
+[SPEAKER_00]: Yeah, Walter, he's hit good stuff.
+
+992
+00:50:25,743 --> 00:50:27,464
+[SPEAKER_00]: There's no question about that.
+
+993
+00:50:28,024 --> 00:50:29,424
+[SPEAKER_01]: Did you ever get hit off him?
+
+994
+00:50:29,444 --> 00:50:29,685
+[SPEAKER_01]: Huh?
+
+995
+00:50:29,865 --> 00:50:30,865
+[SPEAKER_01]: Did you ever get a hit off him?
+
+996
+00:50:31,905 --> 00:50:32,845
+[SPEAKER_00]: Not that I can remember.
+
+997
+00:50:32,865 --> 00:50:34,826
+[SPEAKER_00]: Not that I can remember.
+
+998
+00:50:35,518 --> 00:50:37,359
+[SPEAKER_00]: I probably did, but I don't just remember.
+
+999
+00:50:43,504 --> 00:50:45,125
+[SPEAKER_01]: Do you have a favorite park to pitch in?
+
+1000
+00:50:46,206 --> 00:50:47,267
+[SPEAKER_00]: Cincinnati is one of them.
+
+1001
+00:50:47,287 --> 00:50:48,968
+[SPEAKER_00]: I can pitch bid ball in Cincinnati.
+
+1002
+00:50:48,988 --> 00:50:51,450
+[SPEAKER_00]: There's a Chicago Cubs park, too, and Boston.
+
+1003
+00:50:51,530 --> 00:50:52,831
+[SPEAKER_00]: I can pitch bid ball in Boston.
+
+1004
+00:50:54,852 --> 00:50:57,374
+[SPEAKER_00]: I used to start a lot of cloud field games in Cincinnati.
+
+1005
+00:50:58,015 --> 00:51:02,258
+[SPEAKER_00]: Of course, after the year, their ball club wasn't too hot either.
+
+1006
+00:51:02,951 --> 00:51:03,752
+[SPEAKER_00]: Who managed them?
+
+1007
+00:51:03,772 --> 00:51:04,952
+[SPEAKER_00]: Charlie Dresden, wasn't it?
+
+1008
+00:51:04,972 --> 00:51:05,273
+[SPEAKER_00]: Dresden.
+
+1009
+00:51:05,413 --> 00:51:06,373
+[SPEAKER_01]: How'd you get along with Dresden?
+
+1010
+00:51:06,753 --> 00:51:07,154
+[SPEAKER_00]: Oh, right.
+
+1011
+00:51:07,634 --> 00:51:09,635
+[SPEAKER_01]: Schoenberg says he couldn't, didn't get along with Dresden.
+
+1012
+00:51:09,675 --> 00:51:11,396
+[SPEAKER_00]: Well, he's one of those guys, though.
+
+1013
+00:51:11,416 --> 00:51:15,759
+[SPEAKER_00]: He's on me one day, too, and I challenge him to go home with the pictures of mine and go to the clubhouse.
+
+1014
+00:51:15,779 --> 00:51:16,019
+[SPEAKER_00]: Oh.
+
+1015
+00:51:16,099 --> 00:51:17,881
+[SPEAKER_00]: He couldn't laugh to me.
+
+1016
+00:51:17,901 --> 00:51:18,961
+[SPEAKER_00]: See, he was laughing.
+
+1017
+00:51:20,702 --> 00:51:23,284
+[SPEAKER_00]: Of course, we all get our jumps and downs one day.
+
+1018
+00:51:23,304 --> 00:51:23,804
+[SPEAKER_00]: Yeah.
+
+1019
+00:51:26,906 --> 00:51:30,829
+[SPEAKER_01]: It's a real job, being a manager.
+
+1020
+00:51:31,388 --> 00:51:35,751
+[SPEAKER_01]: handling the people, all these different kinds of personalities to deal with.
+
+1021
+00:51:35,771 --> 00:51:36,912
+[SPEAKER_01]: Get the best out of each one.
+
+1022
+00:51:36,992 --> 00:51:37,653
+[SPEAKER_00]: It's not easy.
+
+1023
+00:51:40,275 --> 00:51:40,975
+[SPEAKER_00]: I like Gabby.
+
+1024
+00:51:41,015 --> 00:51:41,996
+[SPEAKER_00]: I like Gabby Street.
+
+1025
+00:51:42,776 --> 00:51:45,018
+[SPEAKER_00]: O'Farrill was a good fellow to play for.
+
+1026
+00:51:45,038 --> 00:51:46,179
+[SPEAKER_00]: Jimmy Wilson, of course.
+
+1027
+00:51:46,519 --> 00:51:48,080
+[SPEAKER_00]: Jimmy and I were like that anyway.
+
+1028
+00:51:49,922 --> 00:51:52,023
+[SPEAKER_00]: Great manager.
+
+1029
+00:51:52,083 --> 00:51:52,884
+[SPEAKER_00]: Great catcher.
+
+1030
+00:51:53,304 --> 00:51:56,226
+[SPEAKER_01]: How about Hornsby?
+
+1031
+00:51:57,007 --> 00:51:58,148
+[SPEAKER_00]: Roger, really talented.
+
+1032
+00:51:59,293 --> 00:51:59,733
+[SPEAKER_01]: Cobbish.
+
+1033
+00:52:00,494 --> 00:52:05,739
+[SPEAKER_00]: A little temperamental, but good ball player.
+
+1034
+00:52:06,439 --> 00:52:09,302
+[SPEAKER_00]: He couldn't go back after a fly ball and pop up.
+
+1035
+00:52:09,342 --> 00:52:10,463
+[SPEAKER_00]: He'd have a heck of a time.
+
+1036
+00:52:10,483 --> 00:52:12,785
+[SPEAKER_00]: That's what Glenn Wright was saying.
+
+1037
+00:52:13,605 --> 00:52:16,528
+[SPEAKER_00]: He was good on double plays.
+
+1038
+00:52:16,668 --> 00:52:18,630
+[SPEAKER_01]: He was a better hitter, you know what I mean?
+
+1039
+00:52:22,213 --> 00:52:24,115
+[SPEAKER_01]: It was all business, I guess, with him.
+
+1040
+00:52:24,275 --> 00:52:25,296
+[SPEAKER_01]: All business and horses.
+
+1041
+00:52:31,370 --> 00:52:33,612
+[SPEAKER_01]: Do you have any big thrills that stand out in your mind?
+
+1042
+00:52:35,373 --> 00:52:39,796
+[SPEAKER_00]: Well, I think the first time I ever pitched to the Babe was one of the biggest thrills I ever got.
+
+1043
+00:52:40,556 --> 00:52:41,097
+[SPEAKER_00]: Babe Ruth.
+
+1044
+00:52:41,797 --> 00:52:46,560
+[SPEAKER_00]: Then my first game in the Major League, of course, with Detroit.
+
+1045
+00:52:48,421 --> 00:52:52,584
+[SPEAKER_00]: Then that no-hit game I pitched to the Buffaloes when I was with Syracuse.
+
+1046
+00:52:54,105 --> 00:52:56,887
+[SPEAKER_00]: I can still see that last out, the big pop-up to third base.
+
+1047
+00:52:56,927 --> 00:53:00,950
+[SPEAKER_00]: But there's so many different things.
+
+1048
+00:53:01,228 --> 00:53:03,268
+[SPEAKER_00]: Did you walk many, or hit any, that game?
+
+1049
+00:53:03,368 --> 00:53:04,189
+[SPEAKER_00]: Oh, I don't know.
+
+1050
+00:53:04,689 --> 00:53:05,169
+[SPEAKER_00]: I never did.
+
+1051
+00:53:05,289 --> 00:53:06,409
+[SPEAKER_00]: I always had good control.
+
+1052
+00:53:06,429 --> 00:53:08,310
+[SPEAKER_00]: It wasn't a perfect game, though, was it?
+
+1053
+00:53:08,350 --> 00:53:08,570
+[SPEAKER_00]: No.
+
+1054
+00:53:08,750 --> 00:53:09,450
+[SPEAKER_00]: No hit at all?
+
+1055
+00:53:10,970 --> 00:53:12,190
+[SPEAKER_00]: That must have been a big thrill.
+
+1056
+00:53:12,530 --> 00:53:18,152
+[SPEAKER_00]: I probably walked so many, but I know there was a line driver, so I was in the second baseman.
+
+1057
+00:53:18,192 --> 00:53:19,512
+[SPEAKER_00]: I got a double play on it.
+
+1058
+00:53:19,812 --> 00:53:20,732
+[SPEAKER_00]: I can remember that.
+
+1059
+00:53:22,313 --> 00:53:25,453
+[SPEAKER_00]: But I don't always remember that high pop-up.
+
+1060
+00:53:25,593 --> 00:53:27,314
+[SPEAKER_01]: Yeah.
+
+1061
+00:53:28,154 --> 00:53:28,714
+[SPEAKER_01]: What was the?
+
+1062
+00:53:30,057 --> 00:53:32,398
+[SPEAKER_01]: lowest hit game you pitched in the majors you ever had?
+
+1063
+00:53:32,538 --> 00:53:33,898
+[SPEAKER_01]: Oh, gosh, I don't know.
+
+1064
+00:53:33,958 --> 00:53:37,139
+[SPEAKER_00]: I got a couple of one-hit games, a couple of two-hit games.
+
+1065
+00:53:38,580 --> 00:53:41,441
+[SPEAKER_00]: But like I say, I never started too much.
+
+1066
+00:53:41,781 --> 00:53:43,461
+[SPEAKER_00]: I've done an awful lot of remit for it.
+
+1067
+00:53:45,602 --> 00:53:49,423
+[SPEAKER_00]: I grew up with a base that's full.
+
+1068
+00:53:49,483 --> 00:53:53,925
+[SPEAKER_00]: I remember one day in St. Louis, playing against Boston, that's when Hornsby was there.
+
+1069
+00:53:53,985 --> 00:53:56,885
+[SPEAKER_00]: Les Bell.
+
+1070
+00:53:57,026 --> 00:53:58,086
+[SPEAKER_00]: Hornsby and Les Bell.
+
+1071
+00:53:59,442 --> 00:54:05,864
+[SPEAKER_00]: Chardelle was pitching for us, and they had that tuberculosis day in St. Louis at that time.
+
+1072
+00:54:06,104 --> 00:54:18,226
+[SPEAKER_00]: And we were ahead one run going into the ninth inning, and Chardelle pitching, and Boston got the bases full, and Hornsby was the hitter.
+
+1073
+00:54:19,807 --> 00:54:20,927
+[SPEAKER_00]: So who goes in but me?
+
+1074
+00:54:22,948 --> 00:54:24,028
+[SPEAKER_00]: Put me in the ballgame.
+
+1075
+00:54:25,688 --> 00:54:28,689
+[SPEAKER_00]: Well, I strike Hornsby out, and made one out.
+
+1076
+00:54:29,345 --> 00:54:31,127
+[SPEAKER_00]: I struck Bell out and made two out.
+
+1077
+00:54:32,268 --> 00:54:36,231
+[SPEAKER_00]: Then I forget the next hitter, but anyway, it was a big pop-up to the third baseman.
+
+1078
+00:54:37,813 --> 00:54:40,395
+[SPEAKER_00]: So I got Hornsby, Bell, and that pop-up.
+
+1079
+00:54:41,015 --> 00:54:43,698
+[SPEAKER_00]: We win the ball game.
+
+1080
+00:54:43,958 --> 00:54:47,061
+[SPEAKER_00]: That, to me, was one of the greatest jobs I ever made.
+
+1081
+00:54:47,841 --> 00:54:49,122
+[SPEAKER_00]: That's real pressure pitching.
+
+1082
+00:54:50,043 --> 00:54:54,747
+[SPEAKER_00]: I had to pitch right in there to Roger, and I pitched right in there to Les Bell.
+
+1083
+00:54:59,890 --> 00:55:03,173
+[SPEAKER_00]: It was like high fast balls, that crowd of them.
+
+1084
+00:55:03,213 --> 00:55:13,021
+[SPEAKER_00]: Hartman, and Demery, and you know those fellas that when Demery first came up, he was a high ball, he was supposed to be a high ball hitter, but I'd pitch high at home.
+
+1085
+00:55:14,402 --> 00:55:17,125
+[SPEAKER_00]: I'd pitch my own strength, but there's not much to say over here.
+
+1086
+00:55:17,145 --> 00:55:17,785
+[SPEAKER_00]: You've got to hit it.
+
+1087
+00:55:18,125 --> 00:55:21,969
+[SPEAKER_00]: I got the ball, you've got to hit it.
+
+1088
+00:55:21,989 --> 00:55:24,291
+[SPEAKER_00]: They don't say that as long as you make a hit, you've got a chance.
+
+1089
+00:55:24,651 --> 00:55:25,932
+[SPEAKER_00]: You walk up, you don't have a chance.
+
+1090
+00:55:27,261 --> 00:55:31,402
+[SPEAKER_00]: Of course, there's times that base opens, and you will walk it.
+
+1091
+00:55:31,422 --> 00:55:36,463
+[SPEAKER_01]: How about your move to first base?
+
+1092
+00:55:36,483 --> 00:55:38,223
+[SPEAKER_01]: Do you have any problems with that at all?
+
+1093
+00:55:38,544 --> 00:55:39,204
+[SPEAKER_01]: No.
+
+1094
+00:55:39,244 --> 00:55:39,564
+[SPEAKER_01]: No.
+
+1095
+00:55:43,625 --> 00:55:43,785
+[SPEAKER_00]: No.
+
+1096
+00:55:43,825 --> 00:55:47,966
+[SPEAKER_00]: Well, that catches pretty good arms, too, you know what I mean?
+
+1097
+00:55:48,006 --> 00:55:53,247
+[SPEAKER_00]: Of course, I'd throw over to first base,
+
+1098
+00:55:54,284 --> 00:56:01,208
+[SPEAKER_00]: Like I said, as a fastball pitcher, they don't get little breaks a lot of times on the fastball pitchers.
+
+1099
+00:56:01,228 --> 00:56:05,511
+[SPEAKER_00]: Especially the high ballers right there with, you know, Phil Goodow would have been.
+
+1100
+00:56:10,193 --> 00:56:13,716
+[SPEAKER_01]: Well, you really met and played with some great people, didn't you?
+
+1101
+00:56:13,956 --> 00:56:14,516
+[SPEAKER_01]: Oh, yes.
+
+1102
+00:56:16,417 --> 00:56:16,757
+[SPEAKER_01]: Yep.
+
+1103
+00:56:16,777 --> 00:56:22,641
+[SPEAKER_01]: Do you have any, uh,
+
+1104
+00:56:23,603 --> 00:56:27,584
+[SPEAKER_01]: Do you recall any very funny incidents happening on a ball field?
+
+1105
+00:56:27,624 --> 00:56:28,065
+[SPEAKER_00]: Do what?
+
+1106
+00:56:28,565 --> 00:56:32,866
+[SPEAKER_01]: Do you recall any funny, humorous things happening in a game?
+
+1107
+00:56:32,886 --> 00:56:33,987
+[SPEAKER_00]: Well, I think the funniest...
+
+1108
+00:56:35,167 --> 00:56:39,869
+[SPEAKER_00]: I probably should have said, I'd say this, was with Flint Rembrandt.
+
+1109
+00:56:39,889 --> 00:56:42,630
+[SPEAKER_00]: Flint Rembrandt was, you know, he used to drink quite a bit, too.
+
+1110
+00:56:44,030 --> 00:56:46,731
+[SPEAKER_00]: And he came out one time in Cincinnati to start the ball game.
+
+1111
+00:56:46,751 --> 00:56:50,693
+[SPEAKER_00]: He got in that pitcher's mouth and he couldn't get set.
+
+1112
+00:56:53,277 --> 00:56:58,118
+[SPEAKER_00]: He threw the first one and it went over the catcher's head and got darned net, you know.
+
+1113
+00:56:58,138 --> 00:57:01,880
+[SPEAKER_00]: He threw another one just about as bad, and then he walks off the mound.
+
+1114
+00:57:01,900 --> 00:57:05,681
+[SPEAKER_00]: He goes over to the groundkeeper's place over there and he gets a shovel.
+
+1115
+00:57:05,701 --> 00:57:11,682
+[SPEAKER_00]: He comes out with the rubber, you know, and starts digging a hole in that shovel where he can get his foot.
+
+1116
+00:57:14,283 --> 00:57:18,644
+[SPEAKER_00]: Well, that didn't help anything, so they finally knew what the hell was the matter with him.
+
+1117
+00:57:18,824 --> 00:57:21,265
+[SPEAKER_00]: I thank God about it, but to me that was the funniest way to go.
+
+1118
+00:57:22,692 --> 00:57:24,393
+[SPEAKER_00]: Why'd he come out with that shovel?
+
+1119
+00:57:25,053 --> 00:57:27,995
+[SPEAKER_01]: Yeah, if he got his feet lower down, the ball wouldn't go so high up.
+
+1120
+00:57:28,015 --> 00:57:32,337
+[SPEAKER_00]: Yeah, he'd get his toe over that.
+
+1121
+00:57:32,357 --> 00:57:38,519
+[SPEAKER_01]: Do you have any pictures, extra pictures of yourself you might be able to autograph for me?
+
+1122
+00:57:38,539 --> 00:57:39,600
+[SPEAKER_00]: That's something I don't have.
+
+1123
+00:57:39,640 --> 00:57:40,480
+[SPEAKER_00]: I wish I could get some.
+
+1124
+00:57:40,500 --> 00:57:41,241
+[SPEAKER_00]: You don't have any?
+
+1125
+00:57:42,061 --> 00:57:42,801
+[SPEAKER_00]: I don't know who to.
+
+1126
+00:57:42,842 --> 00:57:44,222
+[SPEAKER_00]: I wish I did have them.
+
+1127
+00:57:44,262 --> 00:57:45,723
+[SPEAKER_00]: I really don't have a picture.
+
+1128
+00:57:46,023 --> 00:57:47,003
+[SPEAKER_01]: You sent them all?
+
+1129
+00:57:47,124 --> 00:57:48,044
+[SPEAKER_00]: I get letters.
+
+1130
+00:57:48,484 --> 00:57:50,805
+[SPEAKER_00]: Oh, I get two or three or four letters every week.
+
+1131
+00:57:56,615 --> 00:58:00,659
+[SPEAKER_00]: I wish I knew where I could get some of those pictures.
+
+1132
+00:58:00,719 --> 00:58:05,483
+[SPEAKER_00]: I'd like to send them to the kids, but I really don't have one.
+
+1133
+00:58:05,523 --> 00:58:10,688
+[SPEAKER_00]: I'm sure as heck give it to you.
+
+1134
+00:58:11,068 --> 00:58:13,250
+[SPEAKER_01]: You did have them, but they've all gone, is that it?
+
+1135
+00:58:13,350 --> 00:58:13,770
+[SPEAKER_00]: Oh, yeah.
+
+1136
+00:58:19,848 --> 00:58:28,353
+[SPEAKER_00]: We used to have so many of them as chewing gum and stuff like that, you know, to sign up for.
+
+1137
+00:58:28,413 --> 00:58:30,274
+[SPEAKER_01]: I may have one of you on a chewing gum.
+
+1138
+00:58:30,294 --> 00:58:33,536
+[SPEAKER_00]: No, you probably have.
+
+1139
+00:58:33,556 --> 00:58:35,898
+[SPEAKER_00]: So often you get a regular postcard size, you know.
+
+1140
+00:58:35,918 --> 00:58:39,160
+[SPEAKER_00]: It would be either Phillies or mostly Philadelphia.
+
+1141
+00:58:41,001 --> 00:58:45,704
+[SPEAKER_00]: And then a lot of them were the Cardinals, and not too many were Detroit.
+
+1142
+00:58:50,550 --> 00:58:52,891
+[SPEAKER_01]: Well, it's been a very interesting interview.
+
+1143
+00:58:54,152 --> 00:58:55,812
+[SPEAKER_01]: Well, thank you very much for it.
+
+1144
+00:58:55,932 --> 00:59:07,238
+[SPEAKER_00]: I wish there was a lot more, but like I say, a fellow could keep asking questions and probably always write a book if he had time.
+
+1145
+00:59:07,958 --> 00:59:13,300
+[SPEAKER_01]: Looks like 26 years here from your first year with Portland down to Vancouver.
+
+1146
+00:59:13,380 --> 00:59:14,321
+[SPEAKER_01]: 27 years.
+
+1147
+00:59:14,561 --> 00:59:18,803
+[SPEAKER_00]: Last year, when I went up to Vancouver to manage.
+
+1148
+00:59:20,311 --> 00:59:22,212
+[SPEAKER_00]: That was in, what year was that?
+
+1149
+00:59:22,272 --> 00:59:22,572
+[SPEAKER_00]: 46.
+
+1150
+00:59:23,112 --> 00:59:23,292
+[SPEAKER_00]: 46.
+
+1151
+00:59:24,872 --> 00:59:25,753
+[SPEAKER_00]: And I quit in June.
+
+1152
+00:59:25,813 --> 00:59:27,813
+[SPEAKER_00]: I didn't like it.
+
+1153
+00:59:27,893 --> 00:59:28,554
+[SPEAKER_00]: I didn't like it.
+
+1154
+00:59:28,634 --> 00:59:30,594
+[SPEAKER_00]: I went scouting with the Yankees.
+
+1155
+00:59:31,094 --> 00:59:32,355
+[SPEAKER_01]: How long did you scout with the Yankees?
+
+1156
+00:59:32,415 --> 00:59:35,676
+[SPEAKER_00]: About three years, a little better, with Joe Devine.
+
+1157
+00:59:35,856 --> 00:59:37,416
+[SPEAKER_00]: And I was up in the Northwest here.
+
+1158
+00:59:39,817 --> 00:59:40,718
+[SPEAKER_00]: That's what I had.
+
+1159
+00:59:41,698 --> 00:59:45,999
+[SPEAKER_00]: Then I'd be working at Reynolds Aluminum Plant, too, at that time.
+
+1160
+00:59:46,019 --> 00:59:48,240
+[SPEAKER_00]: Then I had a very, very farm out here.
+
+1161
+00:59:49,609 --> 00:59:56,695
+[SPEAKER_00]: So I'd catch the colleges and the high schools, you know, around town here and send in reports.
+
+1162
+00:59:57,956 --> 01:00:00,017
+[SPEAKER_01]: Anybody you recommend ever make it?
+
+1163
+01:00:00,578 --> 01:00:01,498
+[SPEAKER_00]: Yeah, a couple of them.
+
+1164
+01:00:01,558 --> 01:00:03,340
+[SPEAKER_00]: Morrison was one of them.
+
+1165
+01:00:03,400 --> 01:00:11,927
+[SPEAKER_00]: And, oh, I had a couple of good-looking kids, but then everybody was after them, and they turned out to be just couldn't make it.
+
+1166
+01:00:14,208 --> 01:00:16,130
+[SPEAKER_00]: At the most, bonus every year was $4,000.
+
+1167
+01:00:16,190 --> 01:00:18,211
+[SPEAKER_00]: At that time, it was a high bonus, $4,000.
+
+1168
+01:00:19,630 --> 01:00:21,350
+[SPEAKER_00]: I didn't get nothing when I went up.
+
+1169
+01:00:21,430 --> 01:00:23,931
+[SPEAKER_00]: I got $400 a month for the tight job.
+
+1170
+01:00:23,951 --> 01:00:25,171
+[SPEAKER_00]: With Detroit?
+
+1171
+01:00:26,391 --> 01:00:27,312
+[SPEAKER_01]: How about later on?
+
+1172
+01:00:27,352 --> 01:00:28,532
+[SPEAKER_01]: Did you get much more?
+
+1173
+01:00:28,972 --> 01:00:30,232
+[SPEAKER_00]: Oh, about $5,000.
+
+1174
+01:00:30,372 --> 01:00:31,933
+[SPEAKER_00]: And about Thompson?
+
+1175
+01:00:31,953 --> 01:00:33,333
+[SPEAKER_00]: Thompson.
+
+1176
+01:00:33,373 --> 01:00:35,413
+[SPEAKER_00]: Ruth, he was the highest price paid.
+
+1177
+01:00:35,473 --> 01:00:37,914
+[SPEAKER_00]: I think it was supposed to be $80,000.
+
+1178
+01:00:38,054 --> 01:00:40,114
+[SPEAKER_01]: In the middle of the Depression, too.
+
+1179
+01:00:40,754 --> 01:00:42,495
+[SPEAKER_00]: What would he get now?
+
+1180
+01:00:42,635 --> 01:00:47,836
+[SPEAKER_00]: It's unbelievable how high he could hit them.
+
+1181
+01:00:49,235 --> 01:00:54,198
+[SPEAKER_00]: I've seen him hit many a ball up in the infield of Whitbow a little bit, and it just staggered, you know.
+
+1182
+01:00:55,839 --> 01:00:57,520
+[SPEAKER_00]: He put the second plate standing up.
+
+1183
+01:01:00,982 --> 01:01:04,944
+[SPEAKER_00]: Yeah, he was quite a player.
+
+1184
+01:01:04,964 --> 01:01:08,346
+[SPEAKER_01]: The very first game I ever saw, he had a home run.
+
+1185
+01:01:08,446 --> 01:01:09,587
+[SPEAKER_00]: Oh, where was this at?
+
+1186
+01:01:09,607 --> 01:01:10,467
+[SPEAKER_01]: Cleveland in 1929.
+
+1187
+01:01:10,587 --> 01:01:11,348
+[SPEAKER_01]: Oh, yeah.
+
+1188
+01:01:12,468 --> 01:01:13,409
+[SPEAKER_00]: I grew up in Cleveland.
+
+1189
+01:01:14,289 --> 01:01:16,991
+[SPEAKER_00]: Well, that right field wasn't too awful far away, either.
+
+1190
+01:01:18,293 --> 01:01:19,894
+[SPEAKER_00]: Centerfield was the clubhouse.
+
+1191
+01:01:20,815 --> 01:01:24,877
+[SPEAKER_00]: I remember one time Spoke, we all called him Spoke, the speaker.
+
+1192
+01:01:24,897 --> 01:01:38,765
+[SPEAKER_00]: Of course, I'd pitch him outside and he'd hit it right down that left field line just before it got down to, used to be a, left the stand, used to switch around a little bit, but damn boy, it went right in between the gate like this.
+
+1193
+01:01:38,785 --> 01:01:39,345
+[SPEAKER_00]: Oh, is that right?
+
+1194
+01:01:41,447 --> 01:01:41,987
+[SPEAKER_00]: What was it?
+
+1195
+01:01:42,007 --> 01:01:43,088
+[SPEAKER_00]: Of course, it was a two-base hit.
+
+1196
+01:01:43,188 --> 01:01:47,310
+[SPEAKER_00]: I don't know what that was.
+
+1197
+01:01:47,711 --> 01:01:49,352
+[SPEAKER_01]: People like Averill were my heroes.
+
+1198
+01:01:49,372 --> 01:01:51,993
+[SPEAKER_00]: Yeah, well, he was a little later with Cleveland.
+
+1199
+01:01:52,214 --> 01:01:54,355
+[SPEAKER_00]: They had Luke and Joey Sowell.
+
+1200
+01:01:56,296 --> 01:02:00,178
+[SPEAKER_00]: Luke Sowell was catching, and oh, gosh, I forget those.
+
+1201
+01:02:00,198 --> 01:02:03,340
+[SPEAKER_01]: They had Eddie Morgan.
+
+1202
+01:02:03,780 --> 01:02:04,821
+[SPEAKER_00]: Yeah.
+
+1203
+01:02:05,121 --> 01:02:08,923
+[SPEAKER_00]: Like I say, some clubs I can remember, like Detroit, some I can remember.
+
+1204
+01:02:09,203 --> 01:02:09,863
+[SPEAKER_00]: Every player.
+
+1205
+01:02:11,384 --> 01:02:13,445
+[SPEAKER_00]: And Philadelphia, most of them.
+
+1206
+01:02:13,646 --> 01:02:16,127
+[SPEAKER_00]: And Cincinnati, because I was only in Cincinnati a month.
+
+1207
+01:02:17,195 --> 01:02:26,377
+[SPEAKER_00]: When Jimmy Wilson, like I said, when Jimmy Wilson come through with the Phillies, he said, I'm going to take you back to Philadelphia with me.
+
+1208
+01:02:26,497 --> 01:02:28,038
+[SPEAKER_00]: I said, oh, get out of here.
+
+1209
+01:02:29,758 --> 01:02:31,318
+[SPEAKER_00]: That was a bad box, you know.
+
+1210
+01:02:32,919 --> 01:02:34,759
+[SPEAKER_00]: Sure enough, the service was over.
+
+1211
+01:02:34,819 --> 01:02:39,500
+[SPEAKER_00]: I got called from Cincinnati, you're traded to Philadelphia.
+
+1212
+01:02:39,520 --> 01:02:43,821
+[SPEAKER_00]: That was when Shulman Riggins' client hand says, Ruble, come over to
+
+1213
+01:02:48,544 --> 01:02:54,271
+[SPEAKER_00]: Cincinnati from Philadelphia and it wasn't it wasn't
+
